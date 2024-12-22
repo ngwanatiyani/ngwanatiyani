@@ -3,7 +3,7 @@
 
 
 🌟 About Me
-🔭 Current Projects
+
 🌍 Developing innovative web and mobile apps to address real-world challenges.
 
 📚 Prototyping Asifunde Chommie, a learning platform tailored for South African university students.

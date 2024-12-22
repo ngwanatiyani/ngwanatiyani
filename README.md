@@ -17,10 +17,7 @@ Technologies and Languages:
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Java](https://skillicons.dev/icons?i=java)
 ![SQL](https://skillicons.dev/icons?i=mysql)
-<span style="display: inline-block; width: 32px; height: 32px; background-color: #0052CC; border-radius: 4px; padding: 4px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/jira.svg" style="filter: brightness(0) invert(1);" />
-</span>
-
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/jira.svg" />
 🌱 Learning Journey
 🔐 Deepening my knowledge in Web development, Data engineering, Data analysis, and Cyber Security.
 🎨 Exploring UI/UX Design Trends and the potential of Cloud Computing.

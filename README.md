@@ -10,7 +10,10 @@
 
 Technologies:
 
-![database](https://github.com/user-attachments/assets/16b877ac-b7a2-429a-9fd4-28b7692c7a04)
+![python](https://github.com/user-attachments/assets/091f21a5-b476-473c-b616-27a450e75f0a)
+![java](https://github.com/user-attachments/assets/3563d080-6c46-49a0-873b-8be91069fa62)
+
+
 
 
 

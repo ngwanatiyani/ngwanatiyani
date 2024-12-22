@@ -8,7 +8,7 @@
 
 📚 Prototyping Asifunde Chommie, a learning platform tailored for South African university students.
 
-Technologies:
+Technologies and Languages:
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Python](https://skillicons.dev/icons?i=python)
@@ -16,6 +16,7 @@ Technologies:
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Java](https://skillicons.dev/icons?i=java)
+![SQL](https://skillicons.dev/icons?i=mysql)
 
 🌱 Learning Journey
 🔐 Deepening my knowledge in Web development, Data engineering, Data analysis, and Cyber Security.

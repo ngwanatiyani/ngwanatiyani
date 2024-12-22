@@ -10,8 +10,11 @@
 
 Technologies:
 
-Java, JavaScript, CSS, HTML, SQL, Python
- ? ![JavaScript](https://skillicons.dev/icons?i=js), NodeJs, & Jira, 
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
 🌱 Learning Journey
 🔐 Deepening my knowledge in Web development, Data engineering, Data analysis, and Cyber Security.

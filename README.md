@@ -10,10 +10,11 @@
 
 Technologies:
 
-Java, JavaScript, CSS, HTML, SQL, NodeJs, & Jira, 
+Java, JavaScript, CSS, HTML, SQL, Python
+ ? ![Devicon Python](https://cdn.jsdelivr.net/npm/devicons@latest/devicon.min.css) , NodeJs, & Jira, 
 
 🌱 Learning Journey
-🔐 Deepening my knowledge in Cyber Security and Mobile Development.
+🔐 Deepening my knowledge in Web development, Data engineering, Data analysis, and Cyber Security.
 🎨 Exploring UI/UX Design Trends and the potential of Cloud Computing.
 
 👯 Collaboration Goals

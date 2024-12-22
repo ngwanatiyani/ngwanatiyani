@@ -17,6 +17,7 @@ Technologies and Languages:
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Java](https://skillicons.dev/icons?i=java)
 ![SQL](https://skillicons.dev/icons?i=mysql)
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/jira.svg" />
 
 🌱 Learning Journey
 🔐 Deepening my knowledge in Web development, Data engineering, Data analysis, and Cyber Security.

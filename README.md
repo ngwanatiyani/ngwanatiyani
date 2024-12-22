@@ -1,11 +1,7 @@
-## Hi there 👋
-
-<!--
-**ngwanatiyani/ngwanatiyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 👋 Hi, I'm Tiyani Ngwana!
 
-```javascript
+##```javascript
 const TiyaniNgwana = {
     fieldOfInterest: ['Web Development', 'Cyber Security', 'Mobile Development', 'Data Analysis', 'Web Testing'],
     university: "Cape Peninsula University of Technology",
@@ -38,4 +34,10 @@ Here’s a unique, summarized version of your content with placeholders for imag
 👯 Collaboration Goals
 🤝 Open to working on Web Development and Cyber Security projects.
 💡 Passionate about Educational Technology platforms that revolutionize learning.
+👋
+
+<!--
+**ngwanatiyani/ngwanatiyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->

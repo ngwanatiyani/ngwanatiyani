@@ -15,7 +15,6 @@ Technologies:
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-![SQL](https://skillicons.dev/icons?i=sql)
 ![Java](https://skillicons.dev/icons?i=java)
 
 🌱 Learning Journey

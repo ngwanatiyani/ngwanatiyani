@@ -8,6 +8,15 @@
 
 📚 Prototyping Asifunde Chommie, a learning platform tailored for South African university students.
 
+Technologies:
+
+Java
+JavaScript
+CSS
+NodeJS
+Python
+SQL
+
 🌱 Learning Journey
 🔐 Deepening my knowledge in Cyber Security and Mobile Development.
 🎨 Exploring UI/UX Design Trends and the potential of Cloud Computing.

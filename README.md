@@ -10,6 +10,7 @@
 
 Technologies:
 
+![database](https://github.com/user-attachments/assets/16b877ac-b7a2-429a-9fd4-28b7692c7a04)
 
 
 

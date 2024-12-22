@@ -11,7 +11,7 @@
 Technologies:
 
 Java, JavaScript, CSS, HTML, SQL, Python
- ? ![Devicon Python](https://cdn.jsdelivr.net/npm/devicons@latest/devicon.min.css) , NodeJs, & Jira, 
+ ? ![JavaScript](https://skillicons.dev/icons?i=js), NodeJs, & Jira, 
 
 🌱 Learning Journey
 🔐 Deepening my knowledge in Web development, Data engineering, Data analysis, and Cyber Security.

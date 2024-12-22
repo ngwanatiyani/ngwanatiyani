@@ -10,11 +10,11 @@
 
 Technologies:
 
-Java
-JavaScript
-CSS
-NodeJS
-Python
+Java, ,
+JavaScript, 
+CSS, 
+NodeJS, 
+Python, &
 SQL
 
 🌱 Learning Journey

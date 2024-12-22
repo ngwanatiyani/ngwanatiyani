@@ -3,14 +3,24 @@
 <!--
 **ngwanatiyani/ngwanatiyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Tiyani Ngwana!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+```javascript
+const TiyaniNgwana = {
+    fieldOfInterest: ['Web Development', 'Cyber Security', 'Mobile Development', 'Data Analysis', 'Web Testing'],
+    university: "Cape Peninsula University of Technology",
+    qualification: "DIP: ICT in Application Development",
+    technologies: {
+        frontEnd: {
+            css: ['Bootstrap']
+        },
+        backEnd: {
+            js: ['Node.js'],
+            python: ['Django']
+        },
+        databases: ['SQL']
+    },
+    contact: "ngwanatiyanitn@gmail.com"
+};
+
 -->

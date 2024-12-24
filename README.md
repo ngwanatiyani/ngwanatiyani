@@ -5,7 +5,7 @@
 🌟 About Me:
 
 🌍 Developing innovative web and mobile apps to address real-world challenges.
-📚 Prototyping Asifunde Chommie, a learning platform tailored for South African university students.
+📚 Prototyping Asifunde Chommie, a learning platform tailored for South African university students( still a private repository.soon to be made public)
 
 Technologies and Languages:
 

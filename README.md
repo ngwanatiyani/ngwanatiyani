@@ -26,8 +26,7 @@
 🤝 Open to working on Web Development and Cyber Security projects.
 💡 Passionate about Educational Technology platforms that revolutionize learning.
 
-### Below are repositories that i do to remind my brain how to do basic stuff.
-#### Big stuff coming stay tuned. 📇
+#### Big stuff coming soon stay tuned. 📇
 
 <!--
 **ngwanatiyani/ngwanatiyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,7 +7,7 @@
 🌍 Developing innovative web and mobile apps to address real-world challenges.
 📚 Prototyping Asifunde Chommie, a learning platform tailored for South African university students( still a private repository. Soon to be made public)
 
-Technologies and Languages:
+## Technologies and Languages:
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Python](https://skillicons.dev/icons?i=python)
@@ -25,6 +25,9 @@ Technologies and Languages:
 👯 Collaboration Goals
 🤝 Open to working on Web Development and Cyber Security projects.
 💡 Passionate about Educational Technology platforms that revolutionize learning.
+
+### Below are repositories that i do to remind my brain how to do basic stuff
+#### big stuff coming stay tuned. 📇
 
 <!--
 **ngwanatiyani/ngwanatiyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

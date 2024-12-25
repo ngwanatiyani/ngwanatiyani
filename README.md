@@ -19,7 +19,7 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/jira.svg" />
 
 🌱 Learning Journey:
-🔐 Deepening my knowledge in Web development, Data engineering, Data analysis, and Cyber Security.
+🔐 Deepening my knowledge in Web development, Data analysis, and Cyber Security.
 🎨 Exploring UI/UX Design Trends and the potential of Cloud Computing.
 
 👯 Collaboration Goals

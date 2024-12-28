@@ -5,7 +5,7 @@
 🌟 About Me:
 
 🌍 Developing innovative software to address real-world challenges.
-📚 Prototyping Asifunde Chommie, a learning platform tailored for South African high school learners ( still a private repository. Soon to be made public)
+📚 Prototyping Asifunde Chommie, a learning platform tailored for South African high school learners.
 
 ## Technologies and Languages:
 

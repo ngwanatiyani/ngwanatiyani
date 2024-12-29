@@ -28,6 +28,9 @@
 🤝 Open to working on Web Development and any tech related projects.
 💡 Passionate about Educational Technology platforms that revolutionize learning.
 
+![1735435945789431948313454183093](https://github.com/user-attachments/assets/477ec99c-fcd4-4d2d-963c-9a535ee06db1)
+
+
 #### Cool stuff coming soon... 📇
 
 <!--

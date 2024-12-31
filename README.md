@@ -27,7 +27,7 @@
 🎨 Exploring UI/UX Design Trends and the potential of Cloud Computing.
 
 👯 Collaboration Goals
-🤝 Open to working on Web Development and any tech related projects.
+🤝 Open to working on Web Development and data analysis related projects.
 
 💡 Passionate about Educational Technology platforms that revolutionize learning.
 

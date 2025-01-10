@@ -6,7 +6,7 @@
 
 ![17354347253188605980720493652796](https://github.com/user-attachments/assets/b4433481-0419-4940-876b-2e1305c40331)
 
-🌍 Developing innovative software solutions,followed by rigorous testing(Automated & Manual) to address real-world challenges effectively.
+🌍 Developing innovative software solutions followed by rigorous testing (Automated & Manual) to address real-world challenges effectively.
 
 📚 Prototyping Asifunde Chommie, a learning platform tailored for South African high school learners.
 

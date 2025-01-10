@@ -22,14 +22,14 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/jira.svg" />
 
 🌱 Learning Journey:
-🔐 Deepening my knowledge in Web development, and Data analysis.
+🔐 Deepening my knowledge in Web development, and Software testing.
 
 🎨 Exploring UI/UX Design Trends and the potential of Cloud Computing.
 
 👯 Collaboration Goals
-🤝 Open to working on Web Development and data analysis related projects.
+🤝 Open to working on projects that foster personal and organizational growth.
 
-💡 Passionate about Educational Technology platforms that revolutionize learning.
+💡 Passionate about Technology platforms that revolutionize learning and make daily activities simple.
 
 ![1735435945789431948313454183093](https://github.com/user-attachments/assets/477ec99c-fcd4-4d2d-963c-9a535ee06db1)
 

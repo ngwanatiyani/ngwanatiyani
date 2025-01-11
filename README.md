@@ -8,7 +8,6 @@
 
 🌍 Developing innovative software solutions followed by rigorous testing (Automated & Manual) to address real-world challenges effectively.
 
-📚 Prototyping Asifunde Chommie, a learning platform tailored for South African high school learners.
 
 ## Technologies and Languages:
 

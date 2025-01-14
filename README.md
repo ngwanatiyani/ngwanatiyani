@@ -6,7 +6,8 @@
 
 ![17354347253188605980720493652796](https://github.com/user-attachments/assets/b4433481-0419-4940-876b-2e1305c40331)
 
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3MwaG85eDYyZ2Y2aGF1Ymx5ODdzcWx3ZmR5eTVqNWk3MGczeDJpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PpVjpSOjZDn9lfPE2L/giphy.gif
+![Tech GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3MwaG85eDYyZ2Y2aGF1Ymx5ODdzcWx3ZmR5eTVqNWk3MGczeDJpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PpVjpSOjZDn9lfPE2L/giphy.gif)
+
 
 🌍 Developing innovative software solutions followed by rigorous testing (Automated & Manual) to address real-world challenges effectively.
 

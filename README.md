@@ -33,7 +33,7 @@
 ![1735435945789431948313454183093](https://github.com/user-attachments/assets/477ec99c-fcd4-4d2d-963c-9a535ee06db1)
 
 
-#### Cool stuff coming soon... 📇
+#### More projects coming soon... 📇
 
 <!--
 **ngwanatiyani/ngwanatiyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

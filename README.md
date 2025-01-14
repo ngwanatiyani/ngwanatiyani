@@ -35,8 +35,6 @@
 
 ![1735435945789431948313454183093](https://github.com/user-attachments/assets/477ec99c-fcd4-4d2d-963c-9a535ee06db1)
 
-![Tech GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3MwaG85eDYyZ2Y2aGF1Ymx5ODdzcWx3ZmR5eTVqNWk3MGczeDJpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PpVjpSOjZDn9lfPE2L/giphy.gif)
-
 
 #### More projects coming soon... 📇
 

@@ -4,8 +4,7 @@
 
 ![Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh5djd2djRldWszY3pyYTAzbW5sNTk4eGIyemU3bXpmd3Z0dDQxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif)
 
-🌍 I am a passionate software developer dedicated to creating innovative solutions that tackle real-world challenges. My expertise lies in both automated and manual testing, ensuring high-quality deliverables.
-
+🌍 I am a passionate software developer/QA engineer dedicated to creating innovative solutions. 
 ## 🛠️ Technologies and Languages:
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -26,8 +25,8 @@
 ## 👯 Collaboration Goals:
 
 🤝 I am eager to collaborate on projects that foster both personal and organizational growth, bringing diverse perspectives to the table.
-
 💡 I am driven by a passion for technology platforms that revolutionize learning and simplify everyday tasks.
+
 
 ## 📈 Projects and Contributions:
 

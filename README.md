@@ -27,9 +27,9 @@
 
 💡 Passionate about technology platforms that revolutionize learning and simplify daily activities.
 
-![Tech GIF](https://media.giphy.com/media/3o7TKSzU8cKZ6I5f9S/giphy.gif)
-![Development GIF](https://media.giphy.com/media/l0MYu8GJHkG8zG6Wg/giphy.gif)
-![Testing GIF](https://media.giphy.com/media/xT9IguM8Jt6WZp7k4g/giphy.gif)
+![Tech GIF](https://media.giphy.com/media/3o7TKY0b4G4vBcZlJ6/giphy.gif)
+![Development GIF](https://media.giphy.com/media/xT9IgG50LZcC9r6s0s/giphy.gif)
+![Testing GIF](https://media.giphy.com/media/3o7TKSzU8cKZ6I5f9S/giphy.gif)
 
 #### More projects coming soon... 📇
 

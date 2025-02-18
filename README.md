@@ -4,9 +4,7 @@
 
 🌟 About Me:
 
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh5djd2djRldWszY3pyYTAzbW5sNTk4eGIyemU3bXpmd3Z0dDQxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif
-
-
+![Description of the GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh5djd2djRldWszY3pyYTAzbW5sNTk4eGIyemU3bXpmd3Z0dDQxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif)
 
 🌍 Developing innovative software solutions followed by rigorous testing (Automated & Manual) to address real-world challenges effectively.
 

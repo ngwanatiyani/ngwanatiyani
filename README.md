@@ -6,8 +6,6 @@
 
 🌍 I develop innovative software solutions, focusing on rigorous testing (both Automated & Manual) to effectively address real-world challenges.
 
----
-
 ## Technologies and Languages:
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -19,19 +17,19 @@
 ![SQL](https://skillicons.dev/icons?i=mysql)
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/jira.svg" />
 
----
-
 🌱 **Learning Journey:**
-- Deepening my knowledge in Web Development and Software Testing.
-- Exploring UI/UX Design trends and the potential of Cloud Computing.
+🔐 Deepening my knowledge in Web development and Software testing.
+
+🎨 Exploring UI/UX Design Trends and the potential of Cloud Computing.
 
 👯 **Collaboration Goals:**
-I am open to working on projects that foster personal and organizational growth.
+🤝 Open to working on projects that foster personal and organizational growth.
 
-💡 **Passion:**
-I am passionate about technology platforms that revolutionize learning and simplify daily activities.
+💡 Passionate about technology platforms that revolutionize learning and simplify daily activities.
 
----
+![Tech GIF](https://media.giphy.com/media/3o7TKSzU8cKZ6I5f9S/giphy.gif)
+![Development GIF](https://media.giphy.com/media/l0MYu8GJHkG8zG6Wg/giphy.gif)
+![Testing GIF](https://media.giphy.com/media/xT9IguM8Jt6WZp7k4g/giphy.gif)
 
 #### More projects coming soon... 📇
 

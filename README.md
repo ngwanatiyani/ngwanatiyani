@@ -4,8 +4,7 @@
 
 🌟 About Me:
 
-![17354347253188605980720493652796](https://github.com/user-attachments/assets/b4433481-0419-4940-876b-2e1305c40331)
-
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh5djd2djRldWszY3pyYTAzbW5sNTk4eGIyemU3bXpmd3Z0dDQxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif
 
 
 

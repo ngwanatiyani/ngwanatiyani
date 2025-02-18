@@ -3,9 +3,8 @@
 🌟 **About Me:**
 
 <div style="display: flex; justify-content: space-around;">
-  <img  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JoM3EzajZvM2hhcjJkM2k1azVobm9pNmkxMjU5NW8zaDJ3bzZudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPx16LFvftHPLiM/giphy.gif" alt="Door GIF" width="300" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh5djd2djRldWszY3pyYTAzbW5sNTk4eGIyemU3bXpmd3Z0dDQxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" alt="Coding GIF" width="300" />
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxqYXp4cGVqNXZwYnZpdG1zZTJ2bnFsZGh0ODNha251YWVlb2I3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jxsR1JhrmmeUE/giphy.gif" alt="Sunset GIF" width="300" />
-  <img     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh5djd2djRldWszY3pyYTAzbW5sNTk4eGIyemU3bXpmd3Z0dDQxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" alt="Coding GIF" width="300" />
 </div>
 
 🌍 I am a passionate software developer/QA engineer dedicated to creating innovative solutions. 

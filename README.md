@@ -2,8 +2,7 @@
 
 🌟 **About Me:**
 
-![Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh5djd2djRldWszY3pyYTAzbW5sNTk4eGIyemU3bXpmd3Z0dDQxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif)  ![Sunset GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxqYXp4cGVqNXZwYnZpdG1zZTJ2bnFsZGh0ODNha251YWVlb2I3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jxsR1JhrmmeUE/giphy.gif)
-
+![Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh5djd2djRldWszY3pyYTAzbW5sNTk4eGIyemU3bXpmd3Z0dDQxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif) 
 🌍 I am a passionate software developer/QA engineer dedicated to creating innovative solutions. 
 ## 🛠️ Technologies and Languages:
 

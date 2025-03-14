@@ -21,15 +21,15 @@
 
 ### 🌱 Learning Journey:
 
-🔐 Currently deepening my knowledge in web development and software testing methodologies.
+ *-Currently deepening my knowledge in web development and software testing methodologies*.
 
-🎨 Exploring the latest UI/UX design trends and the transformative potential of cloud computing.
+ *-Exploring the latest UI/UX design trends and the transformative potential of cloud computing.*
 
 ### 👯 Collaboration Goals:
 
-🤝 Eager to collaborate on projects that foster both personal and organizational growth, bringing diverse perspectives to the table.
+🤝*-Eager to collaborate on projects that foster both personal and organizational growth, bringing diverse perspectives to the table.*
 
-💡 Driven by a passion for technology platforms that revolutionize learning and simplify everyday tasks.
+💡*-Driven by a passion for technology platforms that revolutionize learning and simplify everyday tasks.*
 
 
 ### 📈 Projects and Contributions:

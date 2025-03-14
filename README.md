@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tiyani Ngwana
+## 👋 Hi, I'm Tiyani Ngwana
 
 🌟 **About Me:**
 
@@ -8,7 +8,7 @@
 </div>
 
 🌍 Ambitious software developer/QA engineer dedicated to creating innovative solutions. 
-## 🛠️ Technologies and Languages:
+### 🛠️ Technologies and Languages:
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Python](https://skillicons.dev/icons?i=python)
@@ -19,20 +19,20 @@
 ![SQL](https://skillicons.dev/icons?i=mysql)
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/jira.svg" />
 
-## 🌱 Learning Journey:
+### 🌱 Learning Journey:
 
 🔐 Currently deepening my knowledge in web development and software testing methodologies.
 
 🎨 Exploring the latest UI/UX design trends and the transformative potential of cloud computing.
 
-## 👯 Collaboration Goals:
+### 👯 Collaboration Goals:
 
 🤝 Eager to collaborate on projects that foster both personal and organizational growth, bringing diverse perspectives to the table.
 
 💡 Driven by a passion for technology platforms that revolutionize learning and simplify everyday tasks.
 
 
-## 📈 Projects and Contributions:
+### 📈 Projects and Contributions:
 
 Stay tuned for exciting projects that showcase my skills and contributions to the tech community!
 

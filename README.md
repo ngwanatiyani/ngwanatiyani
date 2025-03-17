@@ -23,7 +23,7 @@
 
  *-Currently deepening my knowledge in web development and software testing methodologies*.
 
- *-Exploring transformative potential of cloud computing.*
+ *-Exploring cloud computing.*
 
 ### 👯 Collaboration Goals:
 

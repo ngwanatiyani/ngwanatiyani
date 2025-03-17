@@ -30,10 +30,6 @@
 *-Eager to collaborate on projects that foster both personal and organizational growth, bringing diverse perspectives to the table.*
 
 
-### 📈 Projects and Contributions:
-
-*Stay tuned for exciting projects that showcase my skills and contributions to the tech community!*
-
 #### More projects coming soon... 📇
 
 <!--

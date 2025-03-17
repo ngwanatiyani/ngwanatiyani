@@ -29,8 +29,6 @@
 
 *-Eager to collaborate on projects that foster both personal and organizational growth, bringing diverse perspectives to the table.*
 
-*-Driven by a passion for technology platforms that revolutionize learning and simplify everyday tasks.*
-
 
 ### 📈 Projects and Contributions:
 

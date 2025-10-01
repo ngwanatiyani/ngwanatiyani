@@ -7,7 +7,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxqYXp4cGVqNXZwYnZpdG1zZTJ2bnFsZGh0ODNha251YWVlb2I3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jxsR1JhrmmeUE/giphy.gif" alt="Sunset GIF" width="300" />
 </div>
 
-🌍 Aspiring QA engineer dedicated to creating innovative solutions. 
+🌍 Software/QA engineer dedicated to creating innovative solutions. 
 ### 🛠️ Technologies and Languages:
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -21,7 +21,7 @@
 
 ### 🌱 Learning Journey:
 
- *-Currently deepening my knowledge in web development and software testing methodologies*.
+ *-Currently deepening my knowledge in software development and software testing methodologies*.
 
  *-Exploring cloud computing.*
 

@@ -21,7 +21,7 @@
 
 ### 🌱 Learning Journey:
 
- *-Currently deepening my knowledge in software development and software testing methodologies*.
+ *-Currently deepening my knowledge in software development, AI, and software testing methodologies*.
 
  *-Exploring cloud computing.*
 

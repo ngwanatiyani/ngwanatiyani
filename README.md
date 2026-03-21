@@ -50,7 +50,11 @@ Aspiring Software/QA engineer dedicated to creating innovative solutions.
 **Cape Peninsula University of Technology** | Cape Town | *Feb 2024 : Nov 2026 (In Progress)*
 
 
-#### More projects coming soon... 📇
+Projects:
+
+Lula Website – is a modern job search platform design specifically for South African market to make finding employment less overwhelming.
+Leo Website – it is a one for all a web application that allows the user to generate content, source code using different language and images.
+
 
 <!--
 **ngwanatiyani/ngwanatiyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

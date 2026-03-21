@@ -63,7 +63,10 @@
 ## 🎓 Education
 
 ### Diploma in ICT Applications Development
-**Cape Peninsula University of Technology** | Cape Town | *Feb 2024 – Nov 2026 (In Progress)*
+**Cape Peninsula University of Technology** | Cape Town | **Feb 2024 – Nov 2026 (In Progress)** |
+
+### National Senior Certificate
+**Risinga High School** | 2018 
 
 ---
 

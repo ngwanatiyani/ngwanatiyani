@@ -40,7 +40,7 @@
 ![SQL](https://skillicons.dev/icons?i=mysql)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
----
+
 
 ## 💼 Work Experience
 

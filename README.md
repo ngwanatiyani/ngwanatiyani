@@ -7,8 +7,8 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxqYXp4cGVqNXZwYnZpdG1zZTJ2bnFsZGh0ODNha251YWVlb2I3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jxsR1JhrmmeUE/giphy.gif" alt="Sunset GIF" width="300" />
 </div>
 
-🌍 Aspiring Software/QA engineer dedicated to creating innovative solutions. 
-### 🛠️ Technologies and Languages:
+Aspiring Software/QA engineer dedicated to creating innovative solutions. 
+###  Technologies and Languages:
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Python](https://skillicons.dev/icons?i=python)
@@ -19,7 +19,7 @@
 ![SQL](https://skillicons.dev/icons?i=mysql)
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/jira.svg" />
 
-### 🌱 Learning Journey:
+###  Learning Journey:
 
  *-Currently deepening my knowledge in software development, AI, and software testing methodologies*.
 

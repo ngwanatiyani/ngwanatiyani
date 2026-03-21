@@ -40,10 +40,9 @@
 ![SQL](https://skillicons.dev/icons?i=mysql)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
-
+---
 
 ## 💼 Work Experience
-
 
 ### Software Developer Associate
 **Capaciti** | Cape Town | *Sep 2025 – Feb 2026*

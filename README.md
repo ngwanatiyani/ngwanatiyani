@@ -74,9 +74,8 @@
 
 ### Lula Website
 A modern job search platform designed specifically for the South African market to make finding employment less overwhelming.
-
-### Leo Website
-An all-in-one web application that allows users to generate content and source code using different programming languages, as well as create images.
+🔗 **Live Site:** [lulasearch.netlify.app](https://lulasearch.netlify.app/home.html#) 
+📂 **GitHub:**   https://github.com/ngwanatiyani/Lula_Final_Project
 
 
 ## 🎥 Mock Interview

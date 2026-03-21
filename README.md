@@ -25,10 +25,6 @@ Aspiring Software/QA engineer dedicated to creating innovative solutions.
 
  *-Exploring cloud computing.*
 
-### 👯 Collaboration Goals:
-
-*-Eager to collaborate on projects that foster both personal and organizational growth, bringing diverse perspectives to the table.*
-
 ## 💼 Work Experience
 
 ### Software Developer Associate

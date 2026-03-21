@@ -44,6 +44,7 @@
 
 ## 💼 Work Experience
 
+
 ### Software Developer Associate
 **Capaciti** | Cape Town | *Sep 2025 – Feb 2026*
 

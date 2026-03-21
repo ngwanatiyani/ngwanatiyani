@@ -29,6 +29,27 @@
 
 *-Eager to collaborate on projects that foster both personal and organizational growth, bringing diverse perspectives to the table.*
 
+## 💼 Work Experience
+
+### Software Developer Associate
+**Capaciti** | Cape Town | *Sep 2025 – Feb 2026*
+- Conducted manual audits of peer code contributions to validate entries, identify errors, and ensure all deployments met quality standards before releases.
+- Maintained compliance with project guidelines by reviewing transaction logs (code commits) and flagging questionable entries for immediate correction.
+- Managed documentation and data integrity through GitHub, ensuring all project versions were accurately tracked and stored.
+- Collaborated with an Agile team to complete multi-step assignments, coordinating work with others to meet strict project deadlines.
+
+### ICT Student Ambassador
+**Huawei** | Cape Town | *Mar 2025 – Nov 2025*
+- Provided support to 50+ students, troubleshooting technical queries, validating their concerns, and delivering clear, accurate resolutions.
+- Demonstrated active listening and verbal communication skills by explaining complex technical concepts in simple terms, ensuring full understanding.
+- Assisted in process improvement by gathering feedback from students and reporting common issues to management for future training adjustments.
+- Demonstrated a willingness to learn and contribute to team activities, consistently representing the organization.
+
+## 🎓 Education
+
+### Diploma in ICT Applications Development
+**Cape Peninsula University of Technology** | Cape Town | *Expected Graduation: Nov 2026*
+
 
 #### More projects coming soon... 📇
 

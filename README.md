@@ -8,7 +8,7 @@
 </div>
 
 Aspiring Software/QA engineer dedicated to creating innovative solutions. 
-###  Technologies and Languages:
+###  Tech Stack:
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Python](https://skillicons.dev/icons?i=python)

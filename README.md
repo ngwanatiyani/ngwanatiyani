@@ -7,6 +7,9 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxqYXp4cGVqNXZwYnZpdG1zZTJ2bnFsZGh0ODNha251YWVlb2I3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jxsR1JhrmmeUE/giphy.gif" alt="Sunset GIF" width="300" />
 </div>
 
+**## Location: Cape Town, South Africa
+**## Career Focus: Software Testing, Cloud, AI, and Software Development
+
 Aspiring Software/QA engineer dedicated to creating innovative solutions. 
 ###  Tech Stack:
 

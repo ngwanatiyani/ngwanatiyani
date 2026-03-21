@@ -64,6 +64,11 @@ A modern job search platform designed specifically for the South African market 
 ### Leo Website
 An all-in-one web application that allows users to generate content and source code using different programming languages, as well as create images.
 
+
+## 🎥 Mock Interview
+
+[![Watch Demo](https://img.shields.io/badge/Watch_Demo-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1xvCYzQs5Tk8Jnt2c1ZTmU4RYEqlfjD8R/view?usp=sharing)
+
 ---
 
 <!--

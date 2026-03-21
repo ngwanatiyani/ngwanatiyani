@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Tiyani Ngwana
 
 📍 **Location:** Cape Town, South Africa  
-🎯 **Career Focus:** Software Testing, Cloud, AI, and Software Development
-
+🎯 **Career Focus:** Software Testing, Cloud, AI, and Software Development 
 📧 **Email:** 231266731@mycput.ac.za
-
-Aspiring Software/QA engineer passionate about continuous learning and creating innovative solutions.
 
 ---
 
 ## 🌟 About Me
+
+
+**Aspiring Software/QA engineer passionate about continuous learning and creating innovative solutions**.
+
 
 <table>
   <tr>

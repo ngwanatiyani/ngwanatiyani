@@ -18,6 +18,13 @@ Aspiring Software/QA engineer passionate about continuous learning and creating 
 
 ---
 
+## 🎉 Fun Facts
+
+- ☕ I can debug code faster with a cup of coffee in hand
+- 🐧 Enjoy attending tech events and hackathon
+- 🎧 My coding playlist is 30% Olivier Dean, Shekhinah, Jorja Smith, 30% lo-fi beats and 40% no music just me and my thoughts.
+- 💡 I believe the best code is code that solves real problems for real people
+
 ## 🛠️ Tech Stack
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -68,6 +75,7 @@ An all-in-one web application that allows users to generate content and source c
 ## 🎥 Mock Interview
 
 [![Watch Demo](https://img.shields.io/badge/Watch_Demo-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1xvCYzQs5Tk8Jnt2c1ZTmU4RYEqlfjD8R/view?usp=sharing)
+
 
 ---
 

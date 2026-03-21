@@ -25,6 +25,7 @@
 
 - ☕ I can debug code faster with a cup of coffee in hand
 - 🐧 Enjoy attending tech events and hackathon
+- ✈️ I love travelling and exploring different places
 - 🎧 My coding playlist is 30% Olivier Dean, Shekhinah, Jorja Smith, 30% lo-fi beats and 40% no music just me and my thoughts.
 - 💡 I believe the best code is code that solves real problems for real people
 

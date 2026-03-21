@@ -3,7 +3,7 @@
 📍 **Location:** Cape Town, South Africa  
 🎯 **Career Focus:** Software Testing, Cloud, AI, and Software Development
 
-Aspiring Software/QA engineer dedicated to creating innovative solutions.
+Aspiring Software/QA engineer passionate about continuous learning and creating innovative solutions.
 
 ---
 

@@ -1,17 +1,24 @@
-## 👋 Hi, I'm Tiyani Ngwana
+# 👋 Hi, I'm Tiyani Ngwana
 
-🌟 **About Me:**
+📍 **Location:** Cape Town, South Africa  
+🎯 **Career Focus:** Software Testing, Cloud, AI, and Software Development
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh5djd2djRldWszY3pyYTAzbW5sNTk4eGIyemU3bXpmd3Z0dDQxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" alt="Coding GIF" width="300" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxqYXp4cGVqNXZwYnZpdG1zZTJ2bnFsZGh0ODNha251YWVlb2I3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jxsR1JhrmmeUE/giphy.gif" alt="Sunset GIF" width="300" />
-</div>
+Aspiring Software/QA engineer dedicated to creating innovative solutions.
 
-**## Location: Cape Town, South Africa
-**## Career Focus: Software Testing, Cloud, AI, and Software Development
+---
 
-Aspiring Software/QA engineer dedicated to creating innovative solutions. 
-###  Tech Stack:
+## 🌟 About Me
+
+<table>
+  <tr>
+    <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh5djd2djRldWszY3pyYTAzbW5sNTk4eGIyemU3bXpmd3Z0dDQxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" alt="Coding GIF" width="300" /></td>
+    <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxqYXp4cGVqNXZwYnZpdG1zZTJ2bnFsZGh0ODNha251YWVlb2I3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jxsR1JhrmmeUE/giphy.gif" alt="Sunset GIF" width="300" /></td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Python](https://skillicons.dev/icons?i=python)
@@ -20,35 +27,44 @@ Aspiring Software/QA engineer dedicated to creating innovative solutions.
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Java](https://skillicons.dev/icons?i=java)
 ![SQL](https://skillicons.dev/icons?i=mysql)
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/jira.svg" />
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
+---
 
 ## 💼 Work Experience
 
 ### Software Developer Associate
 **Capaciti** | Cape Town | *Sep 2025 – Feb 2026*
 
-- Maintained compliance with project guidelines by reviewing transaction logs (code commits) and flagging questionable entries for immediate correction.
-- Managed documentation and data integrity through GitHub, ensuring all project versions were accurately tracked and stored.
-- Collaborated with an Agile team to complete multi-step assignments, coordinating work with others to meet strict project deadlines.
+- Maintained compliance with project guidelines by reviewing transaction logs (code commits) and flagging questionable entries for immediate correction
+- Managed documentation and data integrity through GitHub, ensuring all project versions were accurately tracked and stored
+- Collaborated with an Agile team to complete multi-step assignments, coordinating work with others to meet strict project deadlines
 
 ### ICT Student Ambassador
 **Huawei** | Cape Town | *Mar 2025 – Nov 2025*
 
-- Demonstrated active listening and verbal communication skills by explaining complex technical concepts in simple terms, ensuring full understanding.
-- Assisted in process improvement by gathering feedback from students and reporting common issues to management for future training adjustments.
-- Demonstrated a willingness to learn and contribute to team activities, consistently representing the organization.
+- Demonstrated active listening and verbal communication skills by explaining complex technical concepts in simple terms, ensuring full understanding
+- Assisted in process improvement by gathering feedback from students and reporting common issues to management for future training adjustments
+- Demonstrated a willingness to learn and contribute to team activities, consistently representing the organization
+
+---
 
 ## 🎓 Education
 
 ### Diploma in ICT Applications Development
-**Cape Peninsula University of Technology** | Cape Town | *Feb 2024 : Nov 2026 (In Progress)*
+**Cape Peninsula University of Technology** | Cape Town | *Feb 2024 – Nov 2026 (In Progress)*
 
+---
 
-Projects:
+## 📁 Projects
 
-Lula Website – is a modern job search platform design specifically for South African market to make finding employment less overwhelming.
-Leo Website – it is a one for all a web application that allows the user to generate content, source code using different language and images.
+### Lula Website
+A modern job search platform designed specifically for the South African market to make finding employment less overwhelming.
 
+### Leo Website
+An all-in-one web application that allows users to generate content and source code using different programming languages, as well as create images.
+
+---
 
 <!--
 **ngwanatiyani/ngwanatiyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

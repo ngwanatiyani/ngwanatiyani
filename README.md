@@ -3,7 +3,7 @@
 📍 **Location:** Cape Town, South Africa  
 🎯 **Career Focus:** Software Testing, Cloud, AI, and Software Development 
 
-📧 **Email:** 231266731@mycput.ac.za
+📧 **Email:** ngwanatiyanitn@gmail.com
 
 
 ## 🌟 About Me

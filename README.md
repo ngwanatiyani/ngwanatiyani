@@ -38,6 +38,8 @@
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Java](https://skillicons.dev/icons?i=java)
 ![SQL](https://skillicons.dev/icons?i=mysql)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 ---

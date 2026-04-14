@@ -77,9 +77,9 @@
 ### Lula Website
 - A modern job search platform designed specifically for the South African market to make finding employment less overwhelming.
 - Built With: HTML5, JavaScript, Tailwind CSS and Adzuna API. 
-🔗- **Live Site:** [lulasearch.netlify.app](https://lulasearch.netlify.app/home.html#).
+🔗 - **Live Site:** [lulasearch.netlify.app](https://lulasearch.netlify.app/home.html#).
 
-📂- **GitHub:**   https://github.com/ngwanatiyani/Lula_Final_Project
+📂-  **GitHub:**   https://github.com/ngwanatiyani/Lula_Final_Project
 
 
 ## 🎥 Mock Interview

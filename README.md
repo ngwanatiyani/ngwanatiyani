@@ -87,7 +87,7 @@
 -  The plaform was built using React, TypeScript, and Tailwind, Radix UI, and Google DialogFlow APi.
 -  My role was to test the backend and API integrations
 -  🔗 Live Site: https://moduletrackercput.netlify.app/
--  📂**GitHub:** 
+-  📂**GitHub:** https://github.com/ngwanatiyani/Module-Tracker
 
 
 

@@ -9,7 +9,7 @@
 ## 🌟 About Me
 
 
-**Aspiring Software/QA engineer passionate about continuous learning and creating innovative solutions**.
+**Aspiring Software Developer/Data Analyst passionate about continuous learning and creating innovative solutions**.
 
 
 <table>

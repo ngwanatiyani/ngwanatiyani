@@ -83,9 +83,9 @@ Risinga High School | 2018
   <img src="https://github.com/user-attachments/assets/772b976b-9e9b-4dbe-8fe4-6cfd24c4b116" width="500" />
 </p>
 
-- **Overview:** Lula is a modern job search platform that makes finding your next career opportunity simple and stress-free. We connect talented professionals with employers across South Africa, bringing you real-time job listings in an easy-to-use interface
-- **Tech Stack:** HTML5, JavaScript, Tailwind CSS, Adzuna API
-- **Role:** Technical lead and QA engineer
+- **Overview:** Lula is a modern job search platform that makes finding your next career opportunity simple and stress-free. We connect talented professionals with employers across South Africa, bringing you real-time job listings in an easy-to-use interface.
+- **Tech Stack:** HTML5, JavaScript, Tailwind CSS, Adzuna API.
+- **Role:** Technical lead and QA engineer.
 - 🔗 **Live:** [lulasearch.netlify.app](https://lulasearch.netlify.app/home.html)
 - 📂 **GitHub:** [github.com/ngwanatiyani/Lula_Final_Project](https://github.com/ngwanatiyani/Lula_Final_Project)
 
@@ -97,9 +97,9 @@ Risinga High School | 2018
   <img src="https://github.com/user-attachments/assets/3bb78117-a19a-477c-8006-4cb33c0200c0" width="500" />
 </p>
 
-- **Overview:** ModuleTracker is an academic progress tracking platform designed specifically for 2nd year AppDev students at the Cape Peninsula University of Technology (CPUT). This platform provides a modern 3D interface with smart analytics, progress monitoring, performance insights, and academic support tools to empower students in managing their modules, tracking their grades, and achieving their academic goals
-- **Tech Stack:** React, TypeScript, Tailwind, Radix UI, Google DialogFlow API
-- **Role:** Backend and API integration testing
+- **Overview:** ModuleTracker is an academic progress tracking platform designed specifically for 2nd year AppDev students at the Cape Peninsula University of Technology (CPUT). This platform provides a modern 3D interface with smart analytics, progress monitoring, performance insights, and academic support tools to empower students in managing their modules, tracking their grades, and achieving their academic goals.
+- **Tech Stack:** React, TypeScript, Tailwind, Radix UI, Google DialogFlow API.
+- **Role:** My role was Backend developer and API testing.
 - 🔗 **Live:** [moduletrackercput.netlify.app](https://moduletrackercput.netlify.app)
 - 📂 **GitHub:** [github.com/ngwanatiyani/Module-Tracker](https://github.com/ngwanatiyani/Module-Tracker)
 
@@ -107,8 +107,8 @@ Risinga High School | 2018
 
 ### Isandla Community Project
 
-- **Overview:** Python OOP program modeling youth development programs
-- **Tech Stack:** Python
+- **Overview:** This Python program models the various programs and events of a community organization focused on youth development. It uses Object-Oriented Programming (OOP) principles to manage and display details of different types of programs and events.
+- **Tech Stack:** Python console.
 - 📂 **GitHub:** [github.com/ngwanatiyani/Isandla-community-project](https://github.com/ngwanatiyani/Isandla-community-project)
 
 ---

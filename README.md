@@ -83,7 +83,7 @@ Risinga High School | 2018
   <img src="https://github.com/user-attachments/assets/772b976b-9e9b-4dbe-8fe4-6cfd24c4b116" width="500" />
 </p>
 
-- **Overview:** A modern job search platform designed for the South African market
+- **Overview:** Lula is a modern job search platform that makes finding your next career opportunity simple and stress-free. We connect talented professionals with employers across South Africa, bringing you real-time job listings in an easy-to-use interface
 - **Tech Stack:** HTML5, JavaScript, Tailwind CSS, Adzuna API
 - **Role:** Technical lead and QA engineer
 - 🔗 **Live:** [lulasearch.netlify.app](https://lulasearch.netlify.app/home.html)

@@ -74,18 +74,22 @@
 ## 📁 Projects
 
 ### Lula Website
+
+
+ 
+  <table>
+  <tr>
+    <td><img height="500" alt="image" src="https://github.com/user-attachments/assets/772b976b-9e9b-4dbe-8fe4-6cfd24c4b116" width="500" /></tr>
+  </tr>
+</table>
+
 - A modern job search platform designed specifically for the South African market to make finding employment less overwhelming.
 - Built With: HTML5, JavaScript, Tailwind CSS and Adzuna API.
 - My role was a technical lead and QA engineer making sure that the applications is free from bugs and it meets the system standards and requirements for the project.
 - 🔗 **Live Site:** [lulasearch.netlify.app](https://lulasearch.netlify.app/home.html#).
 - 📂**GitHub:**   https://github.com/ngwanatiyani/Lula_Final_Project
 
-- 
-  <table>
-  <tr>
-    <td><img height="500" alt="image" src="https://github.com/user-attachments/assets/772b976b-9e9b-4dbe-8fe4-6cfd24c4b116" width="500" /></tr>
-  </tr>
-</table>
+-
 
 
 

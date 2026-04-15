@@ -97,7 +97,7 @@ Risinga High School | 2018
   <img src="https://github.com/user-attachments/assets/3bb78117-a19a-477c-8006-4cb33c0200c0" width="500" />
 </p>
 
-- **Overview:** Java app helping CPUT students track module performance
+- **Overview:** ModuleTracker is an academic progress tracking platform designed specifically for 2nd year AppDev students at the Cape Peninsula University of Technology (CPUT). This platform provides a modern 3D interface with smart analytics, progress monitoring, performance insights, and academic support tools to empower students in managing their modules, tracking their grades, and achieving their academic goals
 - **Tech Stack:** React, TypeScript, Tailwind, Radix UI, Google DialogFlow API
 - **Role:** Backend and API integration testing
 - 🔗 **Live:** [moduletrackercput.netlify.app](https://moduletrackercput.netlify.app)

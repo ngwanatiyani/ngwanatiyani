@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tiyani Ngwana
 
 📍 **Location:** Cape Town, South Africa  
-🎯 **Career Interests:** Data Analytics, and Software Development 
+🎯 **Career Interests:** Data Analytics, Cloud, and Software Development 
 
 📧 **Email:** ngwanatiyanitn@gmail.com
 

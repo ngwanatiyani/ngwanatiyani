@@ -50,6 +50,7 @@
 
 - Maintained compliance with project guidelines by reviewing transaction logs (code commits) and flagging questionable entries for immediate correction
 - Managed documentation and data integrity through GitHub, ensuring all project versions were accurately tracked and stored
+- Built web applications using React, JavaScript, Node.js, and Express.js
 - Collaborated with an Agile team to complete multi-step assignments, coordinating work with others to meet strict project deadlines
 
 ### ICT Student Ambassador

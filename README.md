@@ -89,11 +89,17 @@
 - 🔗 **Live Site:** [lulasearch.netlify.app](https://lulasearch.netlify.app/home.html#).
 - 📂**GitHub:**   https://github.com/ngwanatiyani/Lula_Final_Project
 
--
 
 
 
 ### Module Tracker
+
+
+  <table>
+  <tr>
+    <td><img height="500" alt="image"  src="https://github.com/user-attachments/assets/3bb78117-a19a-477c-8006-4cb33c0200c0"  width="500" /></tr>
+  </tr>
+</table>
 
 - A standalone Java application that helps 2nd year CPUT Application Development students track their module performance throughout their academic journey.
 -  The plaform was built using React, TypeScript, and Tailwind, Radix UI, and Google DialogFlow APi.

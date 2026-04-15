@@ -61,6 +61,7 @@ Aspiring Software Developer and Data Analyst passionate about continuous learnin
 - Explained complex technical concepts in simple, accessible terms
 - Gathered student feedback and reported common issues for process improvement
 - Consistently represented the organization with professionalism
+- Supported HCIA Datacom and HCIA Storage classes for UNISA and CPUT students
 
 ---
 

@@ -84,10 +84,15 @@
 
 - A standalone Java application that helps 2nd year CPUT Application Development students track their module performance throughout their academic journey.
 -  The plaform was built using React, TypeScript, and Tailwind, Radix UI, and Google DialogFlow APi.
--  My role was to test the backend and API integrations
+-  My role was to test the backend and API integrations.
 -  🔗 Live Site: https://moduletrackercput.netlify.app/
 -  📂**GitHub:** https://github.com/ngwanatiyani/Module-Tracker
 
+### Isandla Community Project
+
+- This Python program models the various programs and events of a community organization focused on youth development. It uses Object-Oriented Programming (OOP) principles to manage and display details of different types of programs and events.
+- It was built using python
+-  📂**GitHub:** https://github.com/ngwanatiyani/Isandla-community-project
 
 
 ## 🎥 Mock Interview

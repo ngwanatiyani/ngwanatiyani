@@ -81,7 +81,7 @@
 - 📂**GitHub:**   https://github.com/ngwanatiyani/Lula_Final_Project
   <table>
   <tr>
-    <td><img height="150" alt="image" src="https://github.com/user-attachments/assets/772b976b-9e9b-4dbe-8fe4-6cfd24c4b116" width="150" /></tr>
+    <td><img height="300" alt="image" src="https://github.com/user-attachments/assets/772b976b-9e9b-4dbe-8fe4-6cfd24c4b116" width="400" /></tr>
   </tr>
 </table>
 

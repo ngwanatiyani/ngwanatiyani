@@ -79,6 +79,8 @@
 - My role was a technical lead and QA engineer making sure that the applications is free from bugs and it meets the system standards and requirements for the project.
 - 🔗 **Live Site:** [lulasearch.netlify.app](https://lulasearch.netlify.app/home.html#).
 - 📂**GitHub:**   https://github.com/ngwanatiyani/Lula_Final_Project
+- <img width="949" height="473" alt="image" src="https://github.com/user-attachments/assets/772b976b-9e9b-4dbe-8fe4-6cfd24c4b116" />
+
 
 ### Module Tracker
 

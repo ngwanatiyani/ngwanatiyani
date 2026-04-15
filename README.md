@@ -11,8 +11,8 @@
 Aspiring Software Developer and Data Analyst passionate about continuous learning and creating innovative solutions.
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh5djd2djRldWszY3pyYTAzbW5sNTk4eGIyemU3bXpmd3Z0dDQxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" alt="Coding" width="120" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxqYXp4cGVqNXZwYnZpdG1zZTJ2bnFsZGh0ODNha251YWVlb2I3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jxsR1JhrmmeUE/giphy.gif" alt="Sunset" width="120" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh5djd2djRldWszY3pyYTAzbW5sNTk4eGIyemU3bXpmd3Z0dDQxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" alt="Coding" width="300" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxqYXp4cGVqNXZwYnZpdG1zZTJ2bnFsZGh0ODNha251YWVlb2I3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jxsR1JhrmmeUE/giphy.gif" alt="Sunset" width="300" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ Risinga High School | 2018
 ### Lula Website
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/772b976b-9e9b-4dbe-8fe4-6cfd24c4b116" width="150" />
+  <img src="https://github.com/user-attachments/assets/772b976b-9e9b-4dbe-8fe4-6cfd24c4b116" width="300" />
 </p>
 
 - **Overview:** A modern job search platform designed for the South African market
@@ -93,7 +93,7 @@ Risinga High School | 2018
 ### Module Tracker
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/3bb78117-a19a-477c-8006-4cb33c0200c0" width="150" />
+  <img src="https://github.com/user-attachments/assets/3bb78117-a19a-477c-8006-4cb33c0200c0" width="300" />
 </p>
 
 - **Overview:** Java app helping CPUT students track module performance

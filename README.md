@@ -77,10 +77,17 @@
 ### Lula Website
 - A modern job search platform designed specifically for the South African market to make finding employment less overwhelming.
 - Built With: HTML5, JavaScript, Tailwind CSS and Adzuna API.
+- My role was a technical lead and QA engineer making sure that the applications is free from bugs and it meets the system standards and requirements for the project.
 - 🔗 **Live Site:** [lulasearch.netlify.app](https://lulasearch.netlify.app/home.html#).
 - 📂**GitHub:**   https://github.com/ngwanatiyani/Lula_Final_Project
 
+### Module Tracker
 
+- A standalone Java application that helps 2nd year CPUT Application Development students track their module performance throughout their academic journey.
+-  The plaform was built using React, TypeScript, and Tailwind, Radix UI, and Google DialogFlow APi.
+-  My role was to test the backend and API integrations
+-  🔗 Live Site: https://moduletrackercput.netlify.app/
+-  📂**GitHub:** 
 
 
 

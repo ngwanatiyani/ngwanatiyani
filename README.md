@@ -2,7 +2,7 @@
 
 📍 **Location:** Cape Town, South Africa  
 🎯 **Career Interests:** Data Analytics, Cloud, and Software Development  
-📧 **Email:** ngwanatiyani@gmail.com  
+📧 **Email:** ngwanatiyanitn@gmail.com  
 
 ---
 

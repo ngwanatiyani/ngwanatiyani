@@ -117,6 +117,7 @@ Risinga High School | 2018
 
 [![Watch Demo](https://img.shields.io/badge/Watch_Demo-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1xvCYzQs5Tk8Jnt2c1ZTmU4RYEqlfjD8R/view?usp=sharing)
 
+---
 
 ### Reflection on coding in Markdown
 
@@ -125,6 +126,8 @@ Risinga High School | 2018
 - **Action**: Used headings, lists, tables, bold/italic emphasis, links, and emojis. Organized sections logically.
 - **Result**: A clean, responsive-style markdown CV that is easy to update on GitHub.
 
+---
+
 ### Reflection on mock interview video experience
 
 - **Situation**: Recorded a mock technical interview for portfolio assessment.
@@ -132,12 +135,14 @@ Risinga High School | 2018
 - **Action:** Prepared answers for “Tell me about yourself,” “Explain a why you are the right candidate for this position,” and “What are your strengths and weaknesses?”.
 - **Result**: Improved confidence, and I was able to use a STAR method to explain the projects I have done.
 
+---
+
 ### Reflection on the use of GitHub Pages 
 
 - **Situation**: Needed to publish portfolio online for public access.
 - **Task**: Deploy markdown CV using GitHub Pages.
 - **Action**: Enabled Pages in repo settings, selected main branch /root folder, waited for deployment.
-- **Result**: I was able to publish my Live portfolio at https://ngwanatiyani.github.io – accessible, version-controlled, and meets publishing criteria.
+- **Result**: I was able to publish my Live portfolio at [ https://ngwanatiyani.github.io](https://ngwanatiyani.github.io/ngwanatiyani/) – accessible, version-controlled, and meets publishing criteria.
 
 
 

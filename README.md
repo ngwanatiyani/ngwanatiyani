@@ -21,10 +21,10 @@ Aspiring Data Engineer passionate about continuous learning and creating innovat
 
 | | |
 |---|---|
-| ☕ | I can debug code faster with a cup of coffee in hand |
-| 🐧 | Enjoy attending tech events and hackathons |
-| ✈️ | I love travelling and exploring different places |
-| 💡 | I believe the best code solves real problems for real people |
+|  | I can debug code faster with a cup of coffee in hand |
+|  | Enjoy attending tech events and hackathons |
+|  | I love travelling and exploring different places |
+|  | I believe the best code solves real problems for real people |
 
 ---
 

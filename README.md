@@ -2,7 +2,7 @@
 
 📍 **Location:** Cape Town, South Africa  
 🎯 **Career Interests:** Data Analytics, Cloud, and Software Development  
-📧 **Emails:** ngwanatiyanitn@gmail.com  and 231266731@mycput.ac.za
+📧 **Emails:** ngwanatiyanitn@gmail.com 
 
 ---
 

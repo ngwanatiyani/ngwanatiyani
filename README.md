@@ -1,26 +1,21 @@
----
-layout: default
-title: D6 Food Bulk Digital Portfolio
-description: Agile project evidence and reflections by Tiyani Ngwana
-permalink: /
+# Student Details
+
+- **Name and Surname:** Tiyani Ngwana
+- **Student Number:** 231266731
+- **Institution:** Cape Peninsula University of Technology
+- **Course:** Diploma in ICT Applications Development
+- **Module:** Project Presentation 3
+- **Module Code:** PRP372S
+
 ---
 
 # D6 Food Bulk Digital Portfolio
 
-This repository contains evidence and STAR reflections from the D6 Food Bulk Agile project.
-
----
-
 ## Repository Overview
 
+This repository contains evidence and STAR reflections from the D6 Food Bulk Agile project.
+
 D6 Food Bulk connects NSFAS students with wholesalers offering affordable student rates and customisable food bulks. The current service area covers CPUT residences at the Cape Town Campus.
-
-## Student Details
-
-- **Student:** Tiyani Ngwana
-- **Institution:** Cape Peninsula University of Technology
-- **Course:** Diploma in ICT Applications Development
-- **Module:** Project Presentation 3
 
 ## Project Links
 

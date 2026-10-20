@@ -26,35 +26,35 @@ Our team developed **D6 Food Bulk**, a business concept designed to make food pu
 
 ---
 
-## 1. Agile Team Charter
+## <img src="assets/icons/agile-team-charter.svg" width="26" height="26" alt=""> 1. Agile Team Charter
 
 - **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/01-agile-team-charter/evidence.md)
 - **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/01-agile-team-charter/reflection.md)
 
 ---
 
-## 2. User Stories and Tasks
+## <img src="assets/icons/user-stories-and-tasks.svg" width="26" height="26" alt=""> 2. User Stories and Tasks
 
 - **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/02-user-stories-and-tasks/evidence.md)
 - **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/02-user-stories-and-tasks/reflection.md)
 
 ---
 
-## 3. Product Backlog
+## <img src="assets/icons/product-backlog.svg" width="26" height="26" alt=""> 3. Product Backlog
 
 - **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/03-product-backlog/evidence.md)
 - **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/03-product-backlog/reflection.md)
 
 ---
 
-## 4. Sprint Backlog
+## <img src="assets/icons/sprint-backlog.svg" width="26" height="26" alt=""> 4. Sprint Backlog
 
 - **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/04-sprint-backlog/evidence.md)
 - **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/04-sprint-backlog/reflection.md)
 
 ---
 
-## 5. Agile Logbook
+## <img src="assets/icons/agile-logbook.svg" width="26" height="26" alt=""> 5. Agile Logbook
 
 - **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/05-agile-logbook/evidence.md)
 - **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/05-agile-logbook/reflection.md)

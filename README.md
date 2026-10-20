@@ -13,9 +13,11 @@
 
 ## Repository Overview
 
-This repository contains evidence and STAR reflections from the D6 Food Bulk Agile project.
+This portfolio documents the evidence and STAR reflections from the Entrepreneurial Work-Integrated Learning (WIL) project completed between 14 July and 30 October.
 
-D6 Food Bulk connects NSFAS students with wholesalers offering affordable student rates and customisable food bulks. The current service area covers CPUT residences at the Cape Town Campus.
+During the project, we were tasked with developing a business concept and breaking the idea into manageable micro-elements. We organised the work into sprints and presented our progress from Tuesday to Friday, covering solution architecture, Product Backlogs, user stories and proposed business solutions.
+
+Our team developed **D6 Food Bulk**, a business concept designed to make food purchasing more convenient and financially manageable for students. The platform connects NSFAS students with wholesalers offering affordable student rates and allows students to create customised food bulks based on their needs and budgets. The initial service area focuses on CPUT residences at the Cape Town Campus.
 
 ## Project Links
 

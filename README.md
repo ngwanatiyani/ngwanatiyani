@@ -9,7 +9,7 @@
 
 ---
 
-# D6 Food Bulk Digital Portfolio
+# Entrepreneurial WIL Projects (14 July - 30 October)
 
 ## Repository Overview
 

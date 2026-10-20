@@ -44,18 +44,12 @@ D6 Food Bulk connects NSFAS students with wholesalers offering student rates. St
 
 ### Evidence
 
-- Charter summary above
+- [Open Agile Team Charter evidence folder](https://github.com/ngwanatiyani/ngwanatiyani/tree/main/agile-team-charter)
 - [Shared Trello workspace](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk)
-- [Add team agreement or meeting screenshot]
 
 ### Reflection — STAR
 
-| STAR | Reflection |
-|---|---|
-| **Situation** | Our team needed a shared direction while building one platform for students and wholesalers. |
-| **Task** | I had to understand my responsibilities and align my work with the product goal. |
-| **Action** | I followed our shared workflow, communicated blockers and used Trello to keep work visible. |
-| **Result** | The charter improved alignment and showed me that clear agreements strengthen teamwork and accountability. |
+[Read the Agile Team Charter reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/agile-team-charter/reflection.md)
 
 ---
 
@@ -148,15 +142,9 @@ The [public Trello board](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/A
 
 ### Evidence
 
-- Logbook above
+- [Open Agile Logbook evidence folder](https://github.com/ngwanatiyani/ngwanatiyani/tree/main/agile-logbook)
 - [Trello activity history](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk)
-- [Add dated meeting, review and retrospective screenshots]
 
 ### Reflection — STAR
 
-| STAR | Reflection |
-|---|---|
-| **Situation** | Project decisions and progress occurred across meetings, Trello and development work. |
-| **Task** | I needed to keep my contribution and learning traceable throughout the project. |
-| **Action** | I recorded important activities, outcomes, blockers and related evidence. |
-| **Result** | The logbook made my progress easier to explain and taught me to collect evidence throughout a project. |
+[Read the Agile Logbook reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/agile-logbook/reflection.md)

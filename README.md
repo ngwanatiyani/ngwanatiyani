@@ -29,35 +29,35 @@ D6 Food Bulk connects NSFAS students with wholesalers offering affordable studen
 
 ---
 
-## Agile Team Charter
+## 1. Agile Team Charter
 
-- **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/agile-team-charter/evidence.md)
-- **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/agile-team-charter/reflection.md)
-
----
-
-## User Stories and Tasks
-
-- **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/user-stories-and-tasks/evidence.md)
-- **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/user-stories-and-tasks/reflection.md)
+- **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/01-agile-team-charter/evidence.md)
+- **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/01-agile-team-charter/reflection.md)
 
 ---
 
-## Product Backlog
+## 2. User Stories and Tasks
 
-- **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/product-backlog/evidence.md)
-- **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/product-backlog/reflection.md)
-
----
-
-## Sprint Backlog
-
-- **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/sprint-backlog/evidence.md)
-- **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/sprint-backlog/reflection.md)
+- **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/02-user-stories-and-tasks/evidence.md)
+- **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/02-user-stories-and-tasks/reflection.md)
 
 ---
 
-## Agile Logbook
+## 3. Product Backlog
 
-- **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/agile-logbook/evidence.md)
-- **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/agile-logbook/reflection.md)
+- **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/03-product-backlog/evidence.md)
+- **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/03-product-backlog/reflection.md)
+
+---
+
+## 4. Sprint Backlog
+
+- **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/04-sprint-backlog/evidence.md)
+- **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/04-sprint-backlog/reflection.md)
+
+---
+
+## 5. Agile Logbook
+
+- **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/05-agile-logbook/evidence.md)
+- **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/05-agile-logbook/reflection.md)

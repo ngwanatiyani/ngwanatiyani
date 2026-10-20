@@ -5,8 +5,6 @@ description: Agile project evidence and reflection by Tiyani Ngwana
 permalink: /
 ---
 
-<div align="center">
-
 # D6 Food Bulk
 
 ### Agile Project Portfolio
@@ -14,8 +12,6 @@ permalink: /
 Affordable, customisable food bulks for NSFAS students.
 
 [**View Live Website**](https://cptdfb.vercel.app/) · [**View Trello Board**](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk)
-
-</div>
 
 ---
 

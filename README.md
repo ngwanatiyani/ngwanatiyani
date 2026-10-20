@@ -31,16 +31,6 @@ D6 Food Bulk connects NSFAS students with wholesalers offering student rates. St
 | **Product** | [cptdfb.vercel.app](https://cptdfb.vercel.app/) |
 | **Project Board** | [Public Trello board](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk) |
 
-## Assessment Coverage
-
-| Section | Evidence | Reflection |
-|---|:---:|:---:|
-| Agile Team Charter | 10% | 10% |
-| User Stories and Tasks | 10% | 10% |
-| Product Backlog | 10% | 10% |
-| Sprint Backlog | 10% | 10% |
-| Agile Logbook | 10% | 10% |
-
 ---
 
 ## 1. Agile Team Charter
@@ -56,13 +46,13 @@ D6 Food Bulk connects NSFAS students with wholesalers offering student rates. St
 | **Scope** | Focus first on CPUT Cape Town Campus residences |
 | **Team** | [Add confirmed team members and roles] |
 
-### Evidence — 10%
+### Evidence
 
 - Charter summary above
 - [Shared Trello workspace](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk)
 - [Add team agreement or meeting screenshot]
 
-### Reflection — STAR — 10%
+### Reflection — STAR
 
 | STAR | Reflection |
 |---|---|
@@ -82,13 +72,13 @@ D6 Food Bulk connects NSFAS students with wholesalers offering student rates. St
 | **US-03** | As a student, I want to see my total cost so that I can make an informed decision. | Calculate totals and test price changes |
 | **US-04** | As a wholesaler, I want students to see my available products so that I can serve the student market. | Present product details and availability |
 
-### Evidence — 10%
+### Evidence
 
 - [User stories and task cards on Trello](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk)
 - [Working product](https://cptdfb.vercel.app/)
 - [Add a direct link to my assigned card or commit]
 
-### Reflection — STAR — 10%
+### Reflection — STAR
 
 | STAR | Reflection |
 |---|---|
@@ -110,13 +100,13 @@ The [public Trello board](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/A
 | **Could** | Improve accessibility and expand platform features |
 | **Later** | Support campuses outside the initial service area |
 
-### Evidence — 10%
+### Evidence
 
 - [Public Product Backlog](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk)
 - Priority summary above
 - [Add a dated backlog screenshot]
 
-### Reflection — STAR — 10%
+### Reflection — STAR
 
 | STAR | Reflection |
 |---|---|
@@ -133,13 +123,13 @@ The [public Trello board](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/A
 |---|---|---|---|
 | **[Sprint number and dates]** | Deliver a usable part of the student food-bulk journey | **[Add selected Trello cards]** | **[Add completed and carried-over items]** |
 
-### Evidence — 10%
+### Evidence
 
 - [Sprint work on Trello](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk)
 - [Delivered product increment](https://cptdfb.vercel.app/)
 - [Add a dated sprint-board screenshot and my completed task]
 
-### Reflection — STAR — 10%
+### Reflection — STAR
 
 | STAR | Reflection |
 |---|---|
@@ -160,13 +150,13 @@ The [public Trello board](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/A
 | **[Date]** | Review and retrospective | Feedback recorded and improvements identified |
 | **[Date]** | Product deployment | [D6 Food Bulk published online](https://cptdfb.vercel.app/) |
 
-### Evidence — 10%
+### Evidence
 
 - Logbook above
 - [Trello activity history](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk)
 - [Add dated meeting, review and retrospective screenshots]
 
-### Reflection — STAR — 10%
+### Reflection — STAR
 
 | STAR | Reflection |
 |---|---|
@@ -174,15 +164,3 @@ The [public Trello board](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/A
 | **Task** | I needed to keep my contribution and learning traceable throughout the project. |
 | **Action** | I recorded important activities, outcomes, blockers and related evidence. |
 | **Result** | The logbook made my progress easier to explain and taught me to collect evidence throughout a project. |
-
----
-
-## Before Submission
-
-Replace the bracketed fields with verified team names, sprint details, dates and evidence from the project. Ensure every reflection accurately describes your own contribution.
-
-<div align="center">
-
-**D6 Food Bulk** · Built for students, guided by Agile
-
-</div>

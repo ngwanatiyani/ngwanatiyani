@@ -28,20 +28,25 @@ Our team developed **D6 Food Bulk**, a platform designed to help NSFAS students 
 
 ### <img src="assets/icons/agile-team-charter.svg" width="24" height="24" alt=""> 1. Agile Team Charter
 
-[View Evidence](01-agile-team-charter/evidence.md) · [Read STAR Reflection](01-agile-team-charter/reflection.md)
+- [View Evidence](01-agile-team-charter/evidence.md)
+- [Read STAR Reflection](01-agile-team-charter/reflection.md)
 
 ### <img src="assets/icons/user-stories-and-tasks.svg" width="24" height="24" alt=""> 2. User Stories and Tasks
 
-[View Evidence](02-user-stories-and-tasks/evidence.md) · [Read STAR Reflection](02-user-stories-and-tasks/reflection.md)
+- [View Evidence](02-user-stories-and-tasks/evidence.md)
+- [Read STAR Reflection](02-user-stories-and-tasks/reflection.md)
 
 ### <img src="assets/icons/product-backlog.svg" width="24" height="24" alt=""> 3. Product Backlog
 
-[View Evidence](03-product-backlog/evidence.md) · [Read STAR Reflection](03-product-backlog/reflection.md)
+- [View Evidence](03-product-backlog/evidence.md)
+- [Read STAR Reflection](03-product-backlog/reflection.md)
 
 ### <img src="assets/icons/sprint-backlog.svg" width="24" height="24" alt=""> 4. Sprint Backlog
 
-[View Evidence](04-sprint-backlog/evidence.md) · [Read STAR Reflection](04-sprint-backlog/reflection.md)
+- [View Evidence](04-sprint-backlog/evidence.md)
+- [Read STAR Reflection](04-sprint-backlog/reflection.md)
 
 ### <img src="assets/icons/agile-logbook.svg" width="24" height="24" alt=""> 5. Agile Logbook
 
-[View Evidence](05-agile-logbook/evidence.md) · [Read STAR Reflection](05-agile-logbook/reflection.md)
+- [View Evidence](05-agile-logbook/evidence.md)
+- [Read STAR Reflection](05-agile-logbook/reflection.md)

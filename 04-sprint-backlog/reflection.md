@@ -2,16 +2,16 @@
 
 ## Situation
 
-During sprint planning, the team needed to select a realistic amount of high-priority work that could contribute to a demonstrable D6 Food Bulk increment. Some activities depended on one another, which meant unclear ownership or delays could affect the sprint goal and other team members.
+At the start of Sprint 1, D6 Food Bulk needed a secure entry point before students could use grocery-ordering features. Students had to be able to register, log in and access their account information. Without this foundation, later features such as customised orders, payment and residence delivery would not have a reliable user identity.
 
 ## Task
 
-My task was to complete the work assigned to me within the sprint, keep its status accurate and communicate anything that could prevent completion. I also needed to check my output against the relevant requirements before presenting it as finished.
+The Sprint 1 goal was **User Registration & Authentication**. The selected work was to design the registration page interface, implement user login functionality and create the user profile page. Each task supported the same user story: students needed to create an account and log in securely so that they could access the platform and place grocery orders.
 
 ## Action
 
-I divided assigned work into smaller steps so that I could track progress and identify problems earlier. I updated Trello as the work moved forward, coordinated with team members where tasks had dependencies and responded to feedback during review. Before marking work complete, I checked that it supported the intended feature and did not prevent the team from demonstrating the increment.
+The registration interface was designed to capture student-specific information, including a student number, year of study, residence, student email and contact details. The login interface provided student and administrator account options, email and password inputs, account creation and password-recovery navigation. A password-reset interface was also designed to support account recovery. The team used the Trello cards to keep the sprint scope linked to the user story and reviewed the screens as parts of one authentication journey.
 
 ## Result
 
-My contribution supported the sprint increment and made progress easier for the team to follow. The experience showed me that sprint success is based on completed and verified value rather than the number of tasks started. I also learned to communicate risks earlier and to be more realistic when estimating the work that can fit into a sprint.
+Sprint 1 produced visible registration, login and password-reset interfaces that established the account-access journey for D6 Food Bulk. These screens demonstrate progress toward the Sprint Goal and provide a foundation for the ordering features that follow. The profile-page screenshot and functional authentication tests are still needed to demonstrate that every selected backlog item works end to end. I learnt that a sprint increment should be evaluated against both its user story and objective evidence, rather than being considered complete from interface screenshots alone.

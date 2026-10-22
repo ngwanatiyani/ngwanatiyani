@@ -1,50 +1,67 @@
 # Sprint Backlog Evidence
 
-The Sprint Backlog organised selected work into short reporting periods. Each period supported regular progress checks and the Tuesday-to-Friday presentations.
+The dated Agile Logbooks record reporting periods; they are not the Sprint Backlog definitions. The Sprint Backlog below reflects the work selected for Sprint 1 on the D6 Food Bulk Trello board.
 
-## Sprint: 14 - 17 July 2026
+## Sprint 1: User Registration & Authentication
 
-- Updated the user stories on Trello and added dates to the sprint logs.
-- Reviewed the student problem, target market and value proposition.
-- Prepared and presented the D6 Food Bulk business idea on Microsoft Teams.
-- Used presentation feedback to improve the ordering and delivery process.
-- Mapped Place and Pay, Pool and Fulfil, and Deliver and Collect.
-- Reviewed the slides and improved the Block Agent section.
+### Sprint Goal
 
-**Blocker:** Supplier prices and delivery costs were not confirmed.
+Enable students to create an account, sign in securely and access an account profile before using the grocery-ordering features of D6 Food Bulk.
 
-## Sprint: 21 - 24 July 2026
+### User Story
 
-- Reviewed the student problem, target market and value proposition.
-- Prepared and presented the D6 Food Bulk business idea on Microsoft Teams.
-- Used presentation feedback to improve the ordering and delivery process.
-- Mapped Place and Pay, Pool and Fulfil, and Deliver and Collect.
-- Compared design tools and completed the presentation.
+> As a student, I want to create an account and log in securely so that I can access the D6 Food Bulk platform and place grocery orders.
 
-**Blocker:** Supplier prices and delivery costs were not confirmed.
+### Selected Sprint Backlog Items
 
-## Sprint: 28 - 31 July 2026
+#### 1. Design the Registration Page UI
 
-- Updated user stories on Trello and added dates to the sprint logs.
-- Reviewed the student problem, target market and value proposition.
-- Presented the business idea and refined the ordering and delivery process.
-- Continued mapping Place and Pay, Pool and Fulfil, and Deliver and Collect.
-- Reviewed the presentation and improved the Block Agent section.
+Create a clear student registration form that captures the information required to create an account.
 
-**Blocker:** Supplier prices and delivery costs remained unconfirmed.
+The supplied registration screenshot shows fields for:
 
-## Sprint: 4 - 7 August 2026
+- Name and surname
+- Student number and year of study
+- Residence and phone number
+- Student email
+- Password and password confirmation
 
-- Reviewed the student problem, target market and value proposition.
-- Prepared the business model and presented it on Microsoft Teams.
-- Used the presentation discussion to improve ordering and delivery.
-- Started coding the website frontend using HTML.
-- Researched hosting platforms and prepared to deploy the product.
+The screen also provides a **Create account** action and a link for existing users to log in.
 
-**Outcome:** The concept developed into a clearer service model with student discounts, a Bulk Wallet, same-day delivery, residence collection points, Block Agents and traceable handovers.
+#### 2. Implement User Login Functionality
 
-## Supporting Evidence
+Provide a secure sign-in experience for registered users.
 
-- [View the delivered D6 Food Bulk product](https://cptdfb.vercel.app/)
-- [View the complete sprint cards and progress history on Trello](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk)
-- [View the Agile Logbook Word documents](../05-agile-logbook/evidence.md)
+The supplied login screenshot shows:
+
+- Student and administrator account-type options
+- Student email and password fields
+- A **Log in as student** action
+- A **Forgot password?** link
+- A link for new users to create an account
+
+The screenshot demonstrates the login interface. Functional authentication should be supported by test results or a working demonstration.
+
+#### 3. Create the User Profile Page
+
+Create a profile page where a signed-in student can view or manage relevant account information.
+
+A profile-page screenshot has not yet been supplied. It can be added directly to this folder as evidence for this backlog item.
+
+### Supporting Authentication Screen
+
+The supplied password-reset screenshot shows an account recovery screen where a student can enter an account email and generate a reset code. It also includes a link back to the login page. This supports the wider authentication journey, although it is separate from the three Sprint 1 cards listed above.
+
+## Evidence Status
+
+- **Registration page UI:** Screenshot supplied
+- **Login page UI:** Screenshot supplied
+- **Password reset UI:** Screenshot supplied
+- **User profile page:** Screenshot still required
+- **Functional authentication:** Requires test evidence or a working demonstration
+
+## Supporting Links
+
+- [View the D6 Food Bulk application](https://cptdfb.vercel.app/)
+- [View Sprint 1 and its cards on Trello](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk)
+- [View the Agile Logbooks](../05-agile-logbook/evidence.md)

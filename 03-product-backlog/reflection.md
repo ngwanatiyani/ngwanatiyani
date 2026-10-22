@@ -2,16 +2,16 @@
 
 ## Situation
 
-The team identified several possible features and improvements for D6 Food Bulk, but the project had limited time and capacity. We could not treat every idea as equally urgent, especially while trying to produce a useful first version for students living in CPUT residences.
+D6 Food Bulk required a Product Catalogue that would help students find grocery products before creating a bulk order. The feature included interface design, product information, database integration, search, filtering, student pricing, availability and performance testing. The scope was too large to treat as one undivided task.
 
 ## Task
 
-My responsibility was to help keep backlog work understandable and support decisions about what should be addressed first. The priority had to reflect value for students while also considering effort, dependencies and the effect of each item on the core product journey.
+My assigned Product Catalogue responsibilities were to design the product database, connect the catalogue to the database, display student discount prices and product availability, test catalogue loading performance, and support bug fixing and review. I needed to keep these tasks connected to the student need described by the user story.
 
 ## Action
 
-I reviewed backlog items in relation to the main goal of helping students access affordable and customisable food bulks. I supported prioritising essential work such as displaying products and rates, enabling customisation and communicating costs before less critical improvements. I also helped divide broad requirements into smaller items and used Trello to keep changes and priorities visible to the team.
+I used the Product Backlog and its Trello checklists to separate the feature into smaller areas of work. This made dependencies clearer: the catalogue interface needed reliable product data, search and filtering depended on structured records, and prices and availability had to be displayed before students could make informed choices. I also treated testing and review as backlog work rather than assuming that implementation alone meant the feature was complete.
 
 ## Result
 
-The ordered backlog helped the team focus its available effort on the product's most important functions. It also made lower-priority ideas visible without allowing them to distract from the initial scope. I learned that a Product Backlog is not a fixed checklist; it must be reviewed and adjusted as the team gains new information and feedback.
+The Product Catalogue backlog became a clear set of design, data, integration, discovery and quality tasks linked to one user outcome. It also made my contribution visible alongside the work assigned to other team members. I learnt that a Product Backlog should describe all work needed to deliver user value—including database, integration and testing tasks—not only the visible interface. The remaining evidence should show the finished catalogue and confirm that the acceptance expectations were met.

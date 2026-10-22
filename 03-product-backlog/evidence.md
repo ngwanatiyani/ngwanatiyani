@@ -1,44 +1,72 @@
 # Product Backlog Evidence
 
-The Product Backlog recorded the work required to develop D6 Food Bulk. High-priority account access work was selected for Sprint 1 before the team progressed to ordering, payment and delivery features.
+The Product Backlog records the work required to develop D6 Food Bulk. The Product Catalogue is a key backlog feature because students need to find suitable groceries before they can build a bulk order, review their cart or make payment.
 
-## Sprint 1 Priority — User Registration & Authentication
+## Product Catalogue
 
 ### User Story
 
-> As a student, I want to create an account and log in securely so that I can access the D6 Food Bulk platform and place grocery orders.
+> As a student, I want to browse and search for grocery products so that I can easily find the items I need.
 
-### Backlog Items Selected for Sprint 1
+### Backlog Objective
 
-- Design the registration page UI.
-- Implement user login functionality.
-- Create the user profile page.
+Provide a clear, searchable catalogue that displays grocery information, categories, availability and discounted student prices.
 
-The registration, login and password-reset screenshots demonstrate the account-access interface. Profile-page and functional authentication evidence still need to be added before the full Sprint 1 scope can be verified as complete.
+### Backlog Items
 
-## Additional Product Backlog Work
+#### Catalogue Design
 
-### Work Requiring Validation or Refinement
+- Design the Product Catalogue page.
+- Design the Product Details page.
+- Design the product catalogue interface.
+- Create grocery categories.
 
-- Validate grocery prices, supplier prices and student demand.
-- Refine the ordering and payment steps.
-- Confirm delivery costs and delivery partners.
-- Validate the proposed R45 delivery fee and same-day delivery window.
-- Clarify Block Agent responsibilities and the refund process.
-- Define clear acceptance criteria and test evidence for each user story.
+#### Product Data and Integration
 
-### Recorded Outcomes
+- Design the product database.
+- Add grocery products and categories to the database.
+- Connect the catalogue to the database.
+- Display product images and descriptions.
 
-- Defined student discounts and the Bulk Wallet concept.
-- Mapped Place and Pay, Pool and Fulfil, and Deliver and Collect.
-- Proposed a R45 delivery fee and same-day residence delivery window.
-- Defined verified orders, Block Agent involvement and safe handovers.
-- Updated user stories and team activities on Trello.
-- Began coding the HTML frontend and researched hosting platforms.
+#### Search and Discovery
 
-The backlog was refined after team discussions and presentations. Assumptions involving suppliers, prices, student demand and delivery costs remained subject to validation.
+- Implement product search.
+- Implement category filtering.
+- Allow students to browse products efficiently.
 
-## Supporting Links
+#### Student Pricing and Availability
 
-- [View the complete D6 Food Bulk Product Backlog on Trello](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk)
-- [View the Agile Logbooks](../05-agile-logbook/evidence.md)
+- Display student discount prices.
+- Display product availability.
+- Keep catalogue information clear enough to support purchasing decisions.
+
+#### Testing and Review
+
+- Test product browsing.
+- Test search and filter functionality.
+- Test catalogue loading performance.
+- Fix identified bugs and review the completed work.
+
+### My Assigned Contribution
+
+The Trello checklists assign the following Product Catalogue tasks to **Tiyani Ngwana**:
+
+- Design the product database.
+- Connect the catalogue to the database.
+- Display student discount prices.
+- Display product availability.
+- Test catalogue loading performance.
+- Fix bugs and support the final review.
+
+## Trello Evidence
+
+- [Product Catalogue — design and database tasks](https://trello.com/c/CbJwEqPR/190-product-catalogue)
+- [Product Catalogue — development and integration tasks](https://trello.com/c/SUCMkBHx/189-product-catalogue)
+- [Product Catalogue — search, filtering and pricing tasks](https://trello.com/c/9RbyDtWp/188-product-catalogue)
+- [Product Catalogue — testing and review tasks](https://trello.com/c/iidvc3Wi/187-product-catalogue)
+- [Product Catalogue — consolidated backlog checklist](https://trello.com/c/U1xUQd76/186-product-catalogue)
+- [View the complete D6 Food Bulk Product Backlog](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk)
+
+## Screenshot Evidence
+
+The Product Catalogue screenshot will be placed here after it is uploaded.

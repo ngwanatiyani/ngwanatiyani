@@ -19,6 +19,29 @@ This portfolio documents the Entrepreneurial Work-Integrated Learning project co
 
 Our team developed **D6 Food Bulk**, a platform designed to help NSFAS students access affordable groceries from wholesalers. Students can create customised food bulks according to their needs and budgets. The initial service area focuses on CPUT residences at the Cape Town Campus.
 
+<p align="left">
+  <a href="assets/project-overview/d6_food_bulk_homepage.png"><img src="assets/project-overview/d6_food_bulk_homepage.png" alt="D6 Food Bulk application homepage" width="680"></a>
+</p>
+
+<p align="left"><sub>D6 Food Bulk homepage — affordable bulk groceries, student savings and residence delivery</sub></p>
+
+## Technology Stack
+
+### Application Development
+
+- <img src="assets/icons/technology/java.svg" width="24" height="24" alt="Java logo"> **Java** — Implements the backend business logic and application services.
+- <img src="assets/icons/technology/springboot.svg" width="24" height="24" alt="Spring Boot logo"> **Spring Boot** — Provides the backend framework used to build the application's REST services.
+- <img src="assets/icons/technology/react.svg" width="24" height="24" alt="React logo"> **React** — Builds the component-based frontend and interactive user interface.
+- <img src="assets/icons/technology/springsecurity.svg" width="24" height="24" alt="Spring Security logo"> **Spring Security** — Supports authentication, authorisation and protected application access.
+
+### Data and Deployment
+
+- <img src="assets/icons/technology/tidb.svg" width="24" height="24" alt="TiDB logo"> **TiDB** — Stores structured application and Product Catalogue data in a MySQL-compatible distributed SQL database.
+- <img src="assets/icons/technology/vercel.svg" width="24" height="24" alt="Vercel logo"> **Vercel** — Deploys and serves the React frontend.
+- <img src="assets/icons/technology/render.svg" width="24" height="24" alt="Render logo"> **Render** — Hosts and deploys the backend application services.
+
+<sub>Technology logos sourced from [Simple Icons](https://simpleicons.org/) and [Devicon](https://devicon.dev/).</sub>
+
 ## Project Links
 
 - **Live Application:** [D6 Food Bulk](https://cptdfb.vercel.app/)

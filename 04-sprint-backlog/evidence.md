@@ -1,36 +1,39 @@
 # Sprint Backlog Evidence
 
-The Sprint Backlog contained Product Backlog items selected for a short delivery period. It helped the team focus on achievable work, track progress, and prepare for presentations from Tuesday to Friday.
+The Sprint Backlog organised selected work into short reporting periods. Each period supported regular progress checks and the Tuesday-to-Friday presentations.
 
-## Sprint Work Examples
+## Sprint: 21 - 24 July 2026
 
-### Business Concept and Architecture
+- Reviewed the student problem, target market and value proposition.
+- Prepared and presented the D6 Food Bulk business idea on Microsoft Teams.
+- Used presentation feedback to improve the ordering and delivery process.
+- Mapped Place and Pay, Pool and Fulfil, and Deliver and Collect.
+- Compared design tools and completed the presentation.
 
-- Refine the student problem and D6 Food Bulk value proposition.
-- Identify target users and key platform interactions.
-- Prepare and present the proposed solution architecture.
+**Blocker:** Supplier prices and delivery costs were not confirmed.
 
-### Requirements and Planning
+## Sprint: 28 - 31 July 2026
 
-- Write and refine user stories.
-- Define acceptance criteria and supporting tasks.
-- Prioritise Product Backlog items and select sprint work.
+- Updated user stories on Trello and added dates to the sprint logs.
+- Reviewed the student problem, target market and value proposition.
+- Presented the business idea and refined the ordering and delivery process.
+- Continued mapping Place and Pay, Pool and Fulfil, and Deliver and Collect.
+- Reviewed the presentation and improved the Block Agent section.
 
-### Product Development and Validation
+**Blocker:** Supplier prices and delivery costs remained unconfirmed.
 
-- Develop product browsing and student-rate displays.
-- Implement food-bulk customisation and total-price behaviour.
-- Test completed features and record defects or improvements.
+## Sprint: 4 - 7 August 2026
 
-### Presentation and Refinement
+- Reviewed the student problem, target market and value proposition.
+- Prepared the business model and presented it on Microsoft Teams.
+- Used the presentation discussion to improve ordering and delivery.
+- Started coding the website frontend using HTML.
+- Researched hosting platforms and prepared to deploy the product.
 
-- Demonstrate the current product increment.
-- Record lecturer, stakeholder, or team feedback.
-- Return incomplete or revised work to the Product Backlog.
+**Outcome:** The concept developed into a clearer service model with student discounts, a Bulk Wallet, same-day delivery, residence collection points, Block Agents and traceable handovers.
 
-## Project Evidence
+## Supporting Evidence
 
 - [View the delivered D6 Food Bulk product](https://cptdfb.vercel.app/)
-- [View the complete sprint work and progress history on Trello](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk)
-
-Dated sprint-board screenshots and completed task evidence can also be uploaded to this folder.
+- [View the complete sprint cards and progress history on Trello](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk)
+- [View the Agile Logbook Word documents](../05-agile-logbook/evidence.md)

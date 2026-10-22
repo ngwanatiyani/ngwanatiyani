@@ -2,16 +2,16 @@
 
 ## Situation
 
-D6 Food Bulk began with a broad goal of making food more affordable for NSFAS students by connecting them with wholesalers. This idea had to be translated into specific features, such as viewing student-rate products, creating a customised food bulk and understanding the total cost before placing an order.
+D6 Food Bulk needed clear user stories that translated student needs into manageable features. The main journeys covered account access, shopping-cart management, bulk ordering, and checkout and payment. Without this structure, the team could lose sight of what each feature needed to achieve for a student.
 
 ## Task
 
-My task was to understand the needs behind the platform and help convert them into clear user stories and manageable development tasks. The stories needed to remain focused on user value, while the tasks had to be specific enough for the team to assign, track and test.
+My task was to document the four student-centred user stories, divide each story into focused tasks and connect the requirements to the available Trello and interface evidence. I also needed to keep the stories separate from sprint planning so that each section had a clear purpose.
 
 ## Action
 
-I considered the product from the student's perspective and used the “As a user, I want, so that” format to describe expected outcomes. I helped break larger requirements into smaller activities involving interface design, implementation, validation and testing. I also used acceptance criteria to check whether completed work achieved the intended result instead of judging completion only by whether code had been written.
+I used the **“As a student, I want … so that …”** format for every story and documented five supporting tasks beneath each one. I linked the registration, login, password-recovery, shopping-cart, bulk-ordering and checkout screenshots to the relevant stories. I also added a direct Trello card link under each evidence block so that the requirement, task breakdown and visual evidence could be traced together.
 
 ## Result
 
-The user stories gave the team a clearer understanding of what the product needed to achieve and why each feature mattered. Breaking stories into tasks made progress easier to monitor and reduced ambiguity during development. I learned to connect technical decisions to real user needs and to define completion through observable behaviour.
+The section now provides a clear record of four user needs, their task breakdowns, six interface screenshots and their related Trello cards. The evidence shows how the planned journeys are represented in the application interface, but it does not by itself prove that every feature passed functional or acceptance testing. I learnt that a strong user story should remain focused on the user's goal and should be supported by traceable tasks and appropriate evidence.

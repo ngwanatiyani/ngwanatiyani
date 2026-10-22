@@ -2,16 +2,16 @@
 
 ## Situation
 
-D6 Food Bulk required a Product Catalogue that would help students find grocery products before creating a bulk order. The feature included interface design, product information, database integration, search, filtering, student pricing, availability and performance testing. The scope was too large to treat as one undivided task.
+Students needed a clear Product Catalogue before they could select groceries, build bulk orders or continue to checkout. The catalogue therefore required structured product data, search and filtering support, product availability and prices suitable for student budgets.
 
 ## Task
 
-My assigned Product Catalogue responsibilities were to design the product database, connect the catalogue to the database, display student discount prices and product availability, test catalogue loading performance, and support bug fixing and review. I needed to keep these tasks connected to the student need described by the user story.
+The Trello checklists assigned me responsibility for designing the product database, connecting the catalogue to the database, displaying student discounts and availability, testing catalogue loading performance, and supporting bug fixing and the final review.
 
 ## Action
 
-I used the Product Backlog and its Trello checklists to separate the feature into smaller areas of work. This made dependencies clearer: the catalogue interface needed reliable product data, search and filtering depended on structured records, and prices and availability had to be displayed before students could make informed choices. I also treated testing and review as backlog work rather than assuming that implementation alone meant the feature was complete.
+I organised my contribution around the dependency between the database and the frontend catalogue. The portfolio documents the `dfb.products` table in TiDB, the catalogue's database connection and the product fields used by the application. I linked my assigned work to four daily checklist screenshots and direct Trello cards. I also included frontend evidence showing products filtered below R100 and below R200 to demonstrate how structured catalogue data supports budget-based browsing.
 
 ## Result
 
-The Product Catalogue backlog became a clear set of design, data, integration, discovery and quality tasks linked to one user outcome. It also made my contribution visible alongside the work assigned to other team members. I learnt that a Product Backlog should describe all work needed to deliver user value—including database, integration and testing tasks—not only the visible interface. The remaining evidence should show the finished catalogue and confirm that the acceptance expectations were met.
+The Product Backlog evidence now connects my assigned contribution to the Trello records, a populated TiDB product query and two frontend price-filter views. This creates clear traceability from planned catalogue work to the available database and interface evidence. Loading-time measurements, formal acceptance-test results and a detailed bug report are not included, so I cannot use these screenshots alone to claim that every catalogue requirement passed testing. I learnt to link backlog items to objective evidence while distinguishing demonstrated progress from unverified outcomes.

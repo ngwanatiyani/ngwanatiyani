@@ -62,6 +62,7 @@ The supplied password-reset screenshot shows an account recovery screen where a 
 
 ## Supporting Links
 
+- [View the Sprint 1 user story and application screenshots](../02-user-stories-and-tasks/evidence.md)
 - [View the D6 Food Bulk application](https://cptdfb.vercel.app/)
 - [View Sprint 1 and its cards on Trello](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk)
 - [View the Agile Logbooks](../05-agile-logbook/evidence.md)

@@ -28,9 +28,37 @@ Provide a clear, searchable catalogue that displays grocery information, categor
 - Connect the catalogue to the database.
 - Display product images and descriptions.
 
+#### What Is TiDB?
+
+[TiDB](https://docs.pingcap.com/tidbcloud/tidb-cloud-intro/) is an open-source, distributed SQL database. TiDB Cloud provides it as a managed database service, handling infrastructure, scaling and availability while the application works with standard SQL. It supports transactional application data and analytical queries in the same platform.
+
+TiDB is also [highly compatible with the MySQL protocol](https://docs.pingcap.com/tidbcloud/mysql-compatibility/). This means an application can connect using common MySQL drivers and familiar SQL syntax instead of requiring a specialised database query language.
+
+#### How TiDB Works
+
+1. The application connects to TiDB using the MySQL-compatible connection protocol.
+2. The application sends SQL statements such as `SELECT`, `INSERT`, `UPDATE` and `DELETE`.
+3. TiDB processes the SQL request and reads or changes the distributed data.
+4. The result is returned to the application for presentation to the user.
+5. TiDB Cloud manages the underlying database infrastructure and can scale computing and storage as demand changes.
+
+#### How D6 Food Bulk Uses TiDB
+
+D6 Food Bulk uses TiDB as the central data source for the Product Catalogue:
+
+- Product records are stored in the `dfb.products` table.
+- Each record contains fields such as `id`, `category`, `contents`, `description`, `food_info` and `image`.
+- The application layer retrieves these records for the website rather than storing catalogue content directly in the page.
+- Retrieved data is used to display grocery and bulk options with their descriptions and food information.
+- Categories support catalogue organisation and filtering.
+- Image paths connect each database record to the correct product image shown by the interface.
+- Products selected from the catalogue can then continue into the cart and checkout journey.
+
+This approach keeps Product Catalogue information structured in one place and allows catalogue content to be updated without rewriting the interface.
+
 #### TiDB Product Records
 
-The TiDB query result confirms that Product Catalogue records are stored in the `dfb.products` table. The records include product categories, contents, descriptions, food information and image paths used by the catalogue.
+The screenshot shows the SQL query `SELECT * FROM dfb.products LIMIT 100;` and its results. It confirms that Product Catalogue records are available from the `dfb.products` table.
 
 <p align="left">
   <a href="../assets/product-backlog/tidb_products.png"><img src="../assets/product-backlog/tidb_products.png" alt="TiDB query results showing D6 Food Bulk product catalogue records" width="720"></a>

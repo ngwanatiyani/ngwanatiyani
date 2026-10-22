@@ -78,4 +78,4 @@ Block Agent responsibilities, verified orders and safe handovers were defined, w
 
 - [View the working D6 Food Bulk application](https://cptdfb.vercel.app/)
 - [View the complete user stories and tasks on Trello](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk)
-- [View the Agile Logbooks](../05-agile-logbook/evidence.md)
+- [View the Agile Logbooks](../05-agile-logbook/evidence/README.md)

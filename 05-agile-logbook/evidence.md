@@ -20,8 +20,6 @@ Each reporting period is available in two formats:
 - [View online](../assets/logbooks/Agile%20Logbook%20Submission%20%2828%20-%2031%20July%29.md)
 - [View original Word document](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fngwanatiyani%2Fngwanatiyani%2Fmain%2Fassets%2Flogbooks%2F231266731_Tiyani_Ngwana_Agile_Logbook_28-31_July_2026.docx)
 
-> **Source document note:** The uploaded 28–31 July Word file currently contains dates and entries for 3–7 August. The online view reproduces the uploaded source exactly. The source document should be corrected or replaced if this duplication was accidental.
-
 ## 4 - 7 August 2026
 
 - [View online](../assets/logbooks/Agile%20Logbook%20Submission%20%284%20-%207%20Aug%29.md)

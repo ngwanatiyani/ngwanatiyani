@@ -20,7 +20,7 @@
 
 ## Logbook
 
-### Date: 3 August 2026 - outside reporting period
+### Date: 27 July 2026 - outside reporting period
 
 | Day | No. | Stand-up question | Response |
 |---|---:|---|---|
@@ -28,7 +28,7 @@
 |  | 2 | What am I planning to complete between now and the next standup? | Not applicable. |
 |  | 3 | What are my impediments (or risks or problems)? | Not applicable. |
 
-### Date: 04 August 2026
+### Date: 28 July 2026
 
 | Day | No. | Stand-up question | Response |
 |---|---:|---|---|
@@ -36,7 +36,7 @@
 |  | 2 | What am I planning to complete between now and the next standup? | Prepare the business model and Microsoft Teams presentation. |
 |  | 3 | What are my impediments (or risks or problems)? | No risks. |
 
-### Date: 05 August 2026
+### Date: 29 July 2026
 
 | Day | No. | Stand-up question | Response |
 |---|---:|---|---|
@@ -44,7 +44,7 @@
 |  | 2 | What am I planning to complete between now and the next standup? | Use the presentation discussion to improve the ordering and delivery process. |
 |  | 3 | What are my impediments (or risks or problems)? | No problems so far. |
 
-### Date: 06 August 2026
+### Date: 30 July 2026
 
 | Day | No. | Stand-up question | Response |
 |---|---:|---|---|
@@ -52,7 +52,7 @@
 |  | 2 | What am I planning to complete between now and the next standup? | Code the frontend of our website |
 |  | 3 | What are my impediments (or risks or problems)? | No risks. |
 
-### Date: 07 August 2026
+### Date: 31 July 2026
 
 | Day | No. | Stand-up question | Response |
 |---|---:|---|---|
@@ -64,7 +64,7 @@
 
 ### Progress made
 
-Between 3rd and 7th August, the project progressed from a general grocery delivery idea into a more structured business concept. The team identified the primary users, clarified the problems being addressed and developed a proposed process for placing, combining, fulfilling and delivering orders.
+Between 28 and 31 July, the project progressed from a general grocery delivery idea into a more structured business concept. The team identified the primary users, clarified the problems being addressed and developed a proposed process for placing, combining, fulfilling and delivering orders.
 
 The sprint also produced clear features such as student discounts, same-day delivery, the Bulk Wallet, residence collection points, Block Agents and traceable order handovers.
 

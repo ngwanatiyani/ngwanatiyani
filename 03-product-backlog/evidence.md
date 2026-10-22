@@ -70,19 +70,45 @@ The screenshot shows the SQL query `SELECT * FROM dfb.products LIMIT 100;` and i
 
 The product records retrieved from TiDB are displayed on the D6 Food Bulk catalogue. Because the data is structured, students can filter products by category, filter by price and sort by student rating. Select any image to view it at full size.
 
-<p align="left">
-  <a href="../assets/product-backlog/frontend_filter_canned.png"><img src="../assets/product-backlog/frontend_filter_canned.png" alt="D6 Food Bulk catalogue filtered by the Canned category" width="46%"></a>
-  <a href="../assets/product-backlog/frontend_under_100.png"><img src="../assets/product-backlog/frontend_under_100.png" alt="D6 Food Bulk catalogue filtered to products under R100" width="46%"></a>
-</p>
-
-<p align="left"><sub><strong>Category filter:</strong> Canned products · <strong>Price filter:</strong> Products under R100</sub></p>
+##### 1. Category Filter — Canned
 
 <p align="left">
-  <a href="../assets/product-backlog/frontend_under_200.png"><img src="../assets/product-backlog/frontend_under_200.png" alt="D6 Food Bulk catalogue filtered to products under R200" width="46%"></a>
-  <a href="../assets/product-backlog/frontend_student_rating.png"><img src="../assets/product-backlog/frontend_student_rating.png" alt="D6 Food Bulk catalogue sorted by student rating" width="46%"></a>
+  <a href="../assets/product-backlog/frontend_filter_canned.png">
+    <img src="../assets/product-backlog/frontend_filter_canned.png" alt="D6 Food Bulk catalogue filtered by the Canned category" width="320">
+  </a>
 </p>
 
-<p align="left"><sub><strong>Price filter:</strong> Products under R200 · <strong>Sort:</strong> Student rating</sub></p>
+<sub>Displays canned products retrieved from the TiDB catalogue.</sub>
+
+##### 2. Price Filter — Under R100
+
+<p align="left">
+  <a href="../assets/product-backlog/frontend_under_100.png">
+    <img src="../assets/product-backlog/frontend_under_100.png" alt="D6 Food Bulk catalogue filtered to products under R100" width="320">
+  </a>
+</p>
+
+<sub>Displays catalogue products priced below R100.</sub>
+
+##### 3. Price Filter — Under R200
+
+<p align="left">
+  <a href="../assets/product-backlog/frontend_under_200.png">
+    <img src="../assets/product-backlog/frontend_under_200.png" alt="D6 Food Bulk catalogue filtered to products under R200" width="320">
+  </a>
+</p>
+
+<sub>Displays catalogue products priced below R200.</sub>
+
+##### 4. Sort by Student Rating
+
+<p align="left">
+  <a href="../assets/product-backlog/frontend_student_rating.png">
+    <img src="../assets/product-backlog/frontend_student_rating.png" alt="D6 Food Bulk catalogue sorted by student rating" width="320">
+  </a>
+</p>
+
+<sub>Sorts catalogue products according to their student ratings.</sub>
 
 #### Search and Discovery
 

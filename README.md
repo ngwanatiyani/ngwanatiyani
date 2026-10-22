@@ -55,5 +55,5 @@ Our team developed **D6 Food Bulk**, a business concept designed to make food pu
 
 ## <img src="assets/icons/agile-logbook.svg" width="26" height="26" alt=""> 5. Agile Logbook
 
-- **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/05-agile-logbook/evidence/README.md)
+- **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/05-agile-logbook/evidence.md)
 - **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/05-agile-logbook/reflection.md)

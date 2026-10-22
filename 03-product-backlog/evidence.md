@@ -41,4 +41,4 @@ The backlog was refined after team discussions and presentations. Assumptions in
 ## Supporting Links
 
 - [View the complete D6 Food Bulk Product Backlog on Trello](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk)
-- [View the Agile Logbooks](../05-agile-logbook/evidence/README.md)
+- [View the Agile Logbooks](../05-agile-logbook/evidence.md)

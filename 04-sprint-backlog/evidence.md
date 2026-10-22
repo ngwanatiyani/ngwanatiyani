@@ -2,6 +2,17 @@
 
 The Sprint Backlog organised selected work into short reporting periods. Each period supported regular progress checks and the Tuesday-to-Friday presentations.
 
+## Sprint: 14 - 17 July 2026
+
+- Updated the user stories on Trello and added dates to the sprint logs.
+- Reviewed the student problem, target market and value proposition.
+- Prepared and presented the D6 Food Bulk business idea on Microsoft Teams.
+- Used presentation feedback to improve the ordering and delivery process.
+- Mapped Place and Pay, Pool and Fulfil, and Deliver and Collect.
+- Reviewed the slides and improved the Block Agent section.
+
+**Blocker:** Supplier prices and delivery costs were not confirmed.
+
 ## Sprint: 21 - 24 July 2026
 
 - Reviewed the student problem, target market and value proposition.

@@ -2,7 +2,7 @@
 
 ## Situation
 
-During the Entrepreneurial WIL project, our team developed D6 Food Bulk through a series of short sprints and Tuesday-to-Friday presentations. Between 21 July and 7 August 2026, the concept progressed from identifying the student problem to mapping the service process, refining user stories, coding the HTML frontend and researching deployment. We also had to manage uncertainty because supplier prices, delivery costs and delivery partners had not yet been confirmed.
+During the Entrepreneurial WIL project, our team developed D6 Food Bulk through a series of short sprints and Tuesday-to-Friday presentations. Between 14 July and 7 August 2026, the concept progressed from identifying the student problem to mapping the service process, refining user stories, coding the HTML frontend and researching deployment. We also had to manage uncertainty because supplier prices, delivery costs and delivery partners had not yet been confirmed.
 
 ## Task
 

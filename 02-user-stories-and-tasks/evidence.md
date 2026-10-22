@@ -23,7 +23,7 @@ Each user story is supported by a focused task breakdown and application evidenc
 </p>
 
 <p align="left"><sub>Account registration · Secure login · Password recovery</sub></p>
-<p align="left"><strong><a href="https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk">View the related user story and tasks on Trello</a></strong></p>
+<p align="left"><strong><a href="https://trello.com/c/4a8lOFZi/183-user-registration-authentication">View this user story and tasks on Trello</a></strong></p>
 
 ---
 
@@ -46,7 +46,7 @@ Each user story is supported by a focused task breakdown and application evidenc
 </p>
 
 <p align="left"><sub>Cart quantity controls, item removal and order summary</sub></p>
-<p align="left"><strong><a href="https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk">View the related user story and tasks on Trello</a></strong></p>
+<p align="left"><strong><a href="https://trello.com/c/ogbcGSsu/193-shopping-cart">View this user story and tasks on Trello</a></strong></p>
 
 ---
 
@@ -69,7 +69,7 @@ Each user story is supported by a focused task breakdown and application evidenc
 </p>
 
 <p align="left"><sub>Ready-made and customised student bulks reviewed together in the cart</sub></p>
-<p align="left"><strong><a href="https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk">View the related user story and tasks on Trello</a></strong></p>
+<p align="left"><strong><a href="https://trello.com/c/jePzJ9YR/197-bulk-ordering">View this user story and tasks on Trello</a></strong></p>
 
 ---
 
@@ -92,4 +92,4 @@ Each user story is supported by a focused task breakdown and application evidenc
 </p>
 
 <p align="left"><sub>Delivery details, payment method, wallet balance and final order review</sub></p>
-<p align="left"><strong><a href="https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk">View the related user story and tasks on Trello</a></strong></p>
+<p align="left"><strong><a href="https://trello.com/c/xrggHiG3/201-payment-system">View this user story and tasks on Trello</a></strong></p>

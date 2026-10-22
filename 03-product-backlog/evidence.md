@@ -66,6 +66,24 @@ The screenshot shows the SQL query `SELECT * FROM dfb.products LIMIT 100;` and i
 
 <p align="left"><sub>TiDB evidence — Product records stored in the <code>dfb.products</code> table</sub></p>
 
+#### TiDB-Powered Frontend Catalogue
+
+The product records retrieved from TiDB are displayed on the D6 Food Bulk catalogue. Because the data is structured, students can filter products by category, filter by price and sort by student rating. Select any image to view it at full size.
+
+<p align="left">
+  <a href="../assets/product-backlog/frontend_filter_canned.png"><img src="../assets/product-backlog/frontend_filter_canned.png" alt="D6 Food Bulk catalogue filtered by the Canned category" width="46%"></a>
+  <a href="../assets/product-backlog/frontend_under_100.png"><img src="../assets/product-backlog/frontend_under_100.png" alt="D6 Food Bulk catalogue filtered to products under R100" width="46%"></a>
+</p>
+
+<p align="left"><sub><strong>Category filter:</strong> Canned products · <strong>Price filter:</strong> Products under R100</sub></p>
+
+<p align="left">
+  <a href="../assets/product-backlog/frontend_under_200.png"><img src="../assets/product-backlog/frontend_under_200.png" alt="D6 Food Bulk catalogue filtered to products under R200" width="46%"></a>
+  <a href="../assets/product-backlog/frontend_student_rating.png"><img src="../assets/product-backlog/frontend_student_rating.png" alt="D6 Food Bulk catalogue sorted by student rating" width="46%"></a>
+</p>
+
+<p align="left"><sub><strong>Price filter:</strong> Products under R200 · <strong>Sort:</strong> Student rating</sub></p>
+
 #### Search and Discovery
 
 - Implement product search.

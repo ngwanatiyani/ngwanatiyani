@@ -1,0 +1,5 @@
+title: D6 Food Bulk Digital Portfolio
+description: Entrepreneurial WIL evidence and reflections by Tiyani Ngwana
+markdown: kramdown
+exclude:
+  - "05-agile-logbook/evidence/*.docx"

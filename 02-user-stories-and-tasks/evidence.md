@@ -29,10 +29,10 @@ The following user stories describe the student needs supported by D6 Food Bulk.
 > **User Story:** As a student, I want to join or create a bulk order so that I can save money by buying groceries with other students.
 
 <p align="center">
-  <a href="../assets/user-stories/bulk_ordering_application.png"><img src="../assets/user-stories/bulk_ordering_application.png" alt="D6 Food Bulk custom bulk builder with budget and grocery selections" width="560"></a>
+  <a href="../assets/user-stories/bulk_ordering_application.png"><img src="../assets/user-stories/bulk_ordering_application.png" alt="D6 Food Bulk cart containing ready-made and customised student food bulks" width="560"></a>
 </p>
 
-<p align="center"><sub>Budget selection, grocery choices and bulk summary</sub></p>
+<p align="center"><sub>Ready-made and customised student bulks reviewed together in the cart</sub></p>
 
 ## 4. Secure Checkout and Payment
 

@@ -20,7 +20,7 @@ This portfolio documents the Entrepreneurial Work-Integrated Learning project co
 Our team developed **D6 Food Bulk**, a platform designed to help NSFAS students access affordable groceries from wholesalers. Students can create customised food bulks according to their needs and budgets. The initial service area focuses on CPUT residences at the Cape Town Campus.
 
 <p align="left">
-  <a href="assets/project-overview/d6_food_bulk_homepage.png"><img src="assets/project-overview/d6_food_bulk_homepage.png" alt="D6 Food Bulk application homepage" width="680"></a>
+  <a href="assets/project-overview/d6_food_bulk_homepage.png"><img src="assets/project-overview/d6_food_bulk_homepage.png" alt="D6 Food Bulk application homepage" width="100%"></a>
 </p>
 
 <p align="left"><sub>D6 Food Bulk homepage — affordable bulk groceries, student savings and residence delivery</sub></p>

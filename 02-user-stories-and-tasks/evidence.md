@@ -16,14 +16,14 @@ Each user story is supported by a focused task breakdown and application evidenc
 
 ### Evidence Gallery
 
-<p align="center">
+<p align="left">
   <a href="../assets/user-stories/create_account.png"><img src="../assets/user-stories/create_account.png" alt="D6 Food Bulk student registration page" width="30%"></a>
   <a href="../assets/user-stories/login_account.png"><img src="../assets/user-stories/login_account.png" alt="D6 Food Bulk student and administrator login page" width="30%"></a>
   <a href="../assets/user-stories/forgot_password.png"><img src="../assets/user-stories/forgot_password.png" alt="D6 Food Bulk password recovery page" width="30%"></a>
 </p>
 
-<p align="center"><sub>Account registration · Secure login · Password recovery</sub></p>
-<p align="center"><strong><a href="https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk">View the related user story and tasks on Trello</a></strong></p>
+<p align="left"><sub>Account registration · Secure login · Password recovery</sub></p>
+<p align="left"><strong><a href="https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk">View the related user story and tasks on Trello</a></strong></p>
 
 ---
 
@@ -41,12 +41,12 @@ Each user story is supported by a focused task breakdown and application evidenc
 
 ### Evidence
 
-<p align="center">
+<p align="left">
   <a href="../assets/user-stories/shopping_cart_application.png"><img src="../assets/user-stories/shopping_cart_application.png" alt="D6 Food Bulk shopping cart with editable quantity, removal and order summary" width="420"></a>
 </p>
 
-<p align="center"><sub>Cart quantity controls, item removal and order summary</sub></p>
-<p align="center"><strong><a href="https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk">View the related user story and tasks on Trello</a></strong></p>
+<p align="left"><sub>Cart quantity controls, item removal and order summary</sub></p>
+<p align="left"><strong><a href="https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk">View the related user story and tasks on Trello</a></strong></p>
 
 ---
 
@@ -64,12 +64,12 @@ Each user story is supported by a focused task breakdown and application evidenc
 
 ### Evidence
 
-<p align="center">
+<p align="left">
   <a href="../assets/user-stories/bulk_ordering_application.png"><img src="../assets/user-stories/bulk_ordering_application.png" alt="D6 Food Bulk cart containing ready-made and customised student food bulks" width="420"></a>
 </p>
 
-<p align="center"><sub>Ready-made and customised student bulks reviewed together in the cart</sub></p>
-<p align="center"><strong><a href="https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk">View the related user story and tasks on Trello</a></strong></p>
+<p align="left"><sub>Ready-made and customised student bulks reviewed together in the cart</sub></p>
+<p align="left"><strong><a href="https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk">View the related user story and tasks on Trello</a></strong></p>
 
 ---
 
@@ -87,9 +87,9 @@ Each user story is supported by a focused task breakdown and application evidenc
 
 ### Evidence
 
-<p align="center">
+<p align="left">
   <a href="../assets/user-stories/checkout_payment_application.png"><img src="../assets/user-stories/checkout_payment_application.png" alt="D6 Food Bulk checkout with delivery details, wallet payment and order review" width="420"></a>
 </p>
 
-<p align="center"><sub>Delivery details, payment method, wallet balance and final order review</sub></p>
-<p align="center"><strong><a href="https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk">View the related user story and tasks on Trello</a></strong></p>
+<p align="left"><sub>Delivery details, payment method, wallet balance and final order review</sub></p>
+<p align="left"><strong><a href="https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk">View the related user story and tasks on Trello</a></strong></p>

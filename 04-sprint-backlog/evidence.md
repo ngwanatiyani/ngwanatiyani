@@ -8,6 +8,14 @@ This Sprint Backlog records the work assigned to **Tiyani Ngwana** across Sprint
 
 > **User Story:** As a student, I want to create an account and log in securely so that I can access the D6 Food Bulk platform and place grocery orders.
 
+### Trello Screenshot
+
+<p align="left">
+  <a href="../assets/sprint-backlog/sprint_1_registration_authentication.png"><img src="../assets/sprint-backlog/sprint_1_registration_authentication.png" alt="Sprint 1 Trello card for registration page design" width="480"></a>
+</p>
+
+<p align="left"><sub>Sprint 1 evidence — Registration page UI assigned to Tiyani Ngwana</sub></p>
+
 **Direct Trello access:** [Open Sprint 1 on Trello](https://trello.com/c/cTQGadd8/219-design-the-registration-page-ui)
 
 ### My Assigned Tasks
@@ -29,6 +37,14 @@ My work focused on designing and developing student registration, validating stu
 
 > **User Story:** As a student, I want to browse and search for grocery products so that I can easily find the items I need.
 
+### Trello Screenshot
+
+<p align="left">
+  <a href="../assets/sprint-backlog/sprint_2_product_catalogue.png"><img src="../assets/sprint-backlog/sprint_2_product_catalogue.png" alt="Sprint 2 Trello card for product database design" width="480"></a>
+</p>
+
+<p align="left"><sub>Sprint 2 evidence — Product database design assigned to Tiyani Ngwana</sub></p>
+
 **Direct Trello access:** [Open Sprint 2 on Trello](https://trello.com/c/lrVjlW6S/232-design-the-product-database)
 
 ### My Assigned Tasks
@@ -49,6 +65,14 @@ My work connected the Product Catalogue to its database foundation, supported av
 **Sprint focus:** Allow students to add, remove and update items, preserve their carts and review accurate totals before checkout.
 
 > **User Story:** As a student, I want to add, update and remove items from my shopping cart so that I can review my order before making payment.
+
+### Trello Screenshot
+
+<p align="left">
+  <a href="../assets/sprint-backlog/sprint_3_shopping_cart.png"><img src="../assets/sprint-backlog/sprint_3_shopping_cart.png" alt="Sprint 3 Trello card for Shopping Cart page design" width="480"></a>
+</p>
+
+<p align="left"><sub>Sprint 3 evidence — Shopping Cart page design shared with Tiyani Ngwana</sub></p>
 
 **Direct Trello access:** [Open Sprint 3 on Trello](https://trello.com/c/UUlCUr1e/242-design-the-shopping-cart-page)
 
@@ -72,6 +96,14 @@ My work covered the shared Shopping Cart page design, Checkout Summary design, d
 
 > **User Story:** As a student, I want to join or create a bulk order so that I can save money by buying groceries with other students.
 
+### Trello Screenshot
+
+<p align="left">
+  <a href="../assets/sprint-backlog/sprint_4_bulk_ordering.png"><img src="../assets/sprint-backlog/sprint_4_bulk_ordering.png" alt="Sprint 4 Trello card for bulk order database design" width="480"></a>
+</p>
+
+<p align="left"><sub>Sprint 4 evidence — Bulk order database design assigned to Tiyani Ngwana</sub></p>
+
 **Direct Trello access:** [Open Sprint 4 on Trello](https://trello.com/c/TlpHRFWM/261-design-the-bulk-order-database)
 
 ### My Assigned Tasks
@@ -92,6 +124,14 @@ My work established the bulk-order database and its application connection, supp
 **Sprint focus:** Provide checkout, payment processing, transaction testing and payment-history support.
 
 > **User Story:** As a student, I want to pay for my groceries securely so that my order can be processed immediately.
+
+### Trello Screenshot
+
+<p align="left">
+  <a href="../assets/sprint-backlog/sprint_5_payment_system.png"><img src="../assets/sprint-backlog/sprint_5_payment_system.png" alt="Sprint 5 Trello card for Payment page design" width="480"></a>
+</p>
+
+<p align="left"><sub>Sprint 5 evidence — Payment page design assigned to Tiyani Ngwana</sub></p>
 
 **Direct Trello access:** [Open Sprint 5 on Trello](https://trello.com/c/bv55KrwT/272-design-the-payment-page)
 

@@ -2,8 +2,8 @@
 
 Each reporting period is available in two formats:
 
-- **View online** opens the formatted Logbook directly in GitHub.
-- **View Word document** opens the `.docx` file in Microsoft Office for the web.
+- **View online** opens the Logbook directly in GitHub with the taskboard, walkthrough and dated stand-up entries displayed in tables.
+- **View Word document** opens the matching `.docx` file in Microsoft Office for the web.
 
 ## 14 - 17 July 2026
 

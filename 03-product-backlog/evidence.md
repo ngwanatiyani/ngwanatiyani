@@ -28,6 +28,16 @@ Provide a clear, searchable catalogue that displays grocery information, categor
 - Connect the catalogue to the database.
 - Display product images and descriptions.
 
+#### TiDB Product Records
+
+The TiDB query result confirms that Product Catalogue records are stored in the `dfb.products` table. The records include product categories, contents, descriptions, food information and image paths used by the catalogue.
+
+<p align="left">
+  <a href="../assets/product-backlog/tidb_products.png"><img src="../assets/product-backlog/tidb_products.png" alt="TiDB query results showing D6 Food Bulk product catalogue records" width="720"></a>
+</p>
+
+<p align="left"><sub>TiDB evidence — Product records stored in the <code>dfb.products</code> table</sub></p>
+
 #### Search and Discovery
 
 - Implement product search.

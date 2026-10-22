@@ -1,4 +1,10 @@
-# Student Details
+# Entrepreneurial WIL Digital Portfolio
+
+## D6 Food Bulk
+
+A portfolio of project evidence and STAR reflections for **Project Presentation 3 (PRP372S)**.
+
+## Student Details
 
 - **Name and Surname:** Tiyani Ngwana
 - **Student Number:** 231266731
@@ -7,53 +13,35 @@
 - **Module:** Project Presentation 3
 - **Module Code:** PRP372S
 
----
+## Project Overview
 
-# Entrepreneurial WIL Projects (14 July - 30 October)
+This portfolio documents the Entrepreneurial Work-Integrated Learning project completed between 14 July and 30 October. The project involved developing a business concept, organising the work into manageable backlog items and sprints, and presenting progress throughout the development process.
 
-## Repository Overview
+Our team developed **D6 Food Bulk**, a platform designed to help NSFAS students access affordable groceries from wholesalers. Students can create customised food bulks according to their needs and budgets. The initial service area focuses on CPUT residences at the Cape Town Campus.
 
-This portfolio documents the evidence and STAR reflections from the Entrepreneurial Work-Integrated Learning (WIL) project completed between 14 July and 30 October.
+## Project Links
 
-During the project, we were tasked with developing a business concept and breaking the idea into manageable micro-elements. We organised the work into sprints and presented our progress from Tuesday to Friday, covering solution architecture, Product Backlogs, user stories and proposed business solutions.
+- **Live Application:** [D6 Food Bulk](https://cptdfb.vercel.app/)
+- **Project Board:** [D6 Food Bulk on Trello](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk)
 
-Our team developed **D6 Food Bulk**, a business concept designed to make food purchasing more convenient and financially manageable for students. The platform connects NSFAS students with wholesalers offering affordable student rates and allows students to create customised food bulks based on their needs and budgets. The initial service area focuses on CPUT residences at the Cape Town Campus.
+## Portfolio Sections
 
-## Project Link
+### <img src="assets/icons/agile-team-charter.svg" width="24" height="24" alt=""> 1. Agile Team Charter
 
-- **Live Website:** [D6 Food Bulk](https://cptdfb.vercel.app/)
+[View Evidence](01-agile-team-charter/evidence.md) · [Read STAR Reflection](01-agile-team-charter/reflection.md)
 
----
+### <img src="assets/icons/user-stories-and-tasks.svg" width="24" height="24" alt=""> 2. User Stories and Tasks
 
-## <img src="assets/icons/agile-team-charter.svg" width="26" height="26" alt=""> 1. Agile Team Charter
+[View Evidence](02-user-stories-and-tasks/evidence.md) · [Read STAR Reflection](02-user-stories-and-tasks/reflection.md)
 
-- **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/01-agile-team-charter/evidence.md)
-- **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/01-agile-team-charter/reflection.md)
+### <img src="assets/icons/product-backlog.svg" width="24" height="24" alt=""> 3. Product Backlog
 
----
+[View Evidence](03-product-backlog/evidence.md) · [Read STAR Reflection](03-product-backlog/reflection.md)
 
-## <img src="assets/icons/user-stories-and-tasks.svg" width="26" height="26" alt=""> 2. User Stories and Tasks
+### <img src="assets/icons/sprint-backlog.svg" width="24" height="24" alt=""> 4. Sprint Backlog
 
-- **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/02-user-stories-and-tasks/evidence.md)
-- **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/02-user-stories-and-tasks/reflection.md)
+[View Evidence](04-sprint-backlog/evidence.md) · [Read STAR Reflection](04-sprint-backlog/reflection.md)
 
----
+### <img src="assets/icons/agile-logbook.svg" width="24" height="24" alt=""> 5. Agile Logbook
 
-## <img src="assets/icons/product-backlog.svg" width="26" height="26" alt=""> 3. Product Backlog
-
-- **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/03-product-backlog/evidence.md)
-- **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/03-product-backlog/reflection.md)
-
----
-
-## <img src="assets/icons/sprint-backlog.svg" width="26" height="26" alt=""> 4. Sprint Backlog
-
-- **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/04-sprint-backlog/evidence.md)
-- **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/04-sprint-backlog/reflection.md)
-
----
-
-## <img src="assets/icons/agile-logbook.svg" width="26" height="26" alt=""> 5. Agile Logbook
-
-- **Evidence:** [View evidence](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/05-agile-logbook/evidence.md)
-- **Reflection (STAR):** [Read reflection](https://github.com/ngwanatiyani/ngwanatiyani/blob/main/05-agile-logbook/reflection.md)
+[View Evidence](05-agile-logbook/evidence.md) · [Read STAR Reflection](05-agile-logbook/reflection.md)

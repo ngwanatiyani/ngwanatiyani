@@ -1,53 +1,53 @@
 # Product Backlog Evidence
 
-The Product Backlog records the work required to develop D6 Food Bulk. The Product Catalogue is a key backlog feature because students need to find suitable groceries before building a bulk order, reviewing their cart or making payment.
+This page presents the documented Product Catalogue backlog for **D6 Food Bulk**, including its user story, task categories, Tiyani Ngwana's assigned contributions, Trello records, and supporting database and interface evidence. Each screenshot can be selected to open at full resolution.
 
-## Product Catalogue
+## 1. Product Catalogue Backlog
 
-### User Story
+### 1.1 User Story
 
-> As a student, I want to browse and search for grocery products so that I can easily find the items I need.
+> **As a student, I want to browse and search for grocery products so that I can easily find the items I need.**
 
-### Backlog Objective
+### 1.2 Backlog Objective
 
 Provide a clear, searchable catalogue that displays grocery information, categories, availability and discounted student prices.
 
-### Backlog Items
+### 1.3 Backlog Items
 
-#### Catalogue Design
+#### 1.3.1 Catalogue Design
 
 - Design the Product Catalogue page.
 - Design the Product Details page.
-- Design the product catalogue interface.
+- Design the Product Catalogue interface.
 - Create grocery categories.
 
-#### Product Data and Integration
+#### 1.3.2 Product Data and Integration
 
 - Design the product database.
 - Add grocery products and categories to the database.
 - Connect the catalogue to the database.
 - Display product images and descriptions.
 
-#### Search and Discovery
+#### 1.3.3 Search and Discovery
 
 - Implement product search.
 - Implement category filtering.
 - Allow students to browse products efficiently.
 
-#### Student Pricing and Availability
+#### 1.3.4 Student Pricing and Availability
 
 - Display student discount prices.
 - Display product availability.
 - Keep catalogue information clear enough to support purchasing decisions.
 
-#### Testing and Review
+#### 1.3.5 Testing and Review
 
 - Test product browsing.
 - Test search and filter functionality.
 - Test catalogue loading performance.
 - Fix identified bugs and review the completed work.
 
-### My Assigned Contribution
+### 1.4 My Assigned Contribution
 
 The Trello checklists assign the following Product Catalogue tasks to **Tiyani Ngwana**:
 
@@ -58,42 +58,46 @@ The Trello checklists assign the following Product Catalogue tasks to **Tiyani N
 - Test catalogue loading performance.
 - Fix bugs and support the final review.
 
-## Screenshot Evidence
+## 2. Screenshot Evidence
 
-The screenshots show the Product Catalogue user story and completed checklist items across four days. Select any image to view it at full size.
+The screenshots document the Product Catalogue user story and checklist items organised across four working days.
 
 <p align="left">
   <a href="../assets/product-backlog/product_catalogue_day_1.png"><img src="../assets/product-backlog/product_catalogue_day_1.png" alt="Product Catalogue Day 1 design and database checklist" width="46%"></a>
   <a href="../assets/product-backlog/product_catalogue_day_2.png"><img src="../assets/product-backlog/product_catalogue_day_2.png" alt="Product Catalogue Day 2 development and database connection checklist" width="46%"></a>
 </p>
 
-<p align="left"><sub><strong>Day 1:</strong> Catalogue, product-details and database design · <strong>Day 2:</strong> Catalogue development, product data and database connection</sub></p>
+<p align="left"><sub><strong>Figures 1–2.</strong> Day 1 documents catalogue, Product Details and database design. Day 2 documents catalogue development, product data and database connection.</sub></p>
 
 <p align="left">
   <a href="../assets/product-backlog/product_catalogue_day_3.png"><img src="../assets/product-backlog/product_catalogue_day_3.png" alt="Product Catalogue Day 3 search filtering availability and discounts checklist" width="46%"></a>
   <a href="../assets/product-backlog/product_catalogue_day_4.png"><img src="../assets/product-backlog/product_catalogue_day_4.png" alt="Product Catalogue Day 4 testing bug fixing and review checklist" width="46%"></a>
 </p>
 
-<p align="left"><sub><strong>Day 3:</strong> Search, filtering, availability and student discounts · <strong>Day 4:</strong> Browsing tests, search and filter tests, bug fixing and review</sub></p>
+<p align="left"><sub><strong>Figures 3–4.</strong> Day 3 documents search, filtering, availability and student discounts. Day 4 documents browsing tests, search and filter tests, bug fixing and review. Select any image to view it at full size.</sub></p>
 
-## Trello Evidence
+**Evidence shown:** The four records connect the Product Catalogue user story to design, data, search, pricing, testing and review activities.
 
-- [Product Catalogue — design and database tasks](https://trello.com/c/CbJwEqPR/190-product-catalogue)
-- [Product Catalogue — development and integration tasks](https://trello.com/c/SUCMkBHx/189-product-catalogue)
-- [Product Catalogue — search, filtering and pricing tasks](https://trello.com/c/9RbyDtWp/188-product-catalogue)
-- [Product Catalogue — testing and review tasks](https://trello.com/c/iidvc3Wi/187-product-catalogue)
-- [Product Catalogue — consolidated backlog checklist](https://trello.com/c/U1xUQd76/186-product-catalogue)
+## 3. Trello Evidence
+
+The following links open the specific Product Catalogue cards and consolidated backlog record:
+
+- [Design and database tasks](https://trello.com/c/CbJwEqPR/190-product-catalogue)
+- [Development and integration tasks](https://trello.com/c/SUCMkBHx/189-product-catalogue)
+- [Search, filtering and pricing tasks](https://trello.com/c/9RbyDtWp/188-product-catalogue)
+- [Testing and review tasks](https://trello.com/c/iidvc3Wi/187-product-catalogue)
+- [Consolidated Product Catalogue backlog checklist](https://trello.com/c/U1xUQd76/186-product-catalogue)
 - [View the complete D6 Food Bulk Product Backlog](https://trello.com/invite/b/69f78ec09a27fa85efb7a81d/ATTI6dfcd3ac97b1d0ff578fd4b64024e3f2A65F99B8/d6-food-bulk)
 
-## Technical Implementation Evidence
+## 4. Technical Implementation Evidence
 
-### What Is TiDB?
+### 4.1 TiDB Overview
 
-[TiDB](https://docs.pingcap.com/tidbcloud/tidb-cloud-intro/) is an open-source, distributed SQL database. TiDB Cloud provides it as a managed database service, handling infrastructure, scaling and availability while the application works with standard SQL.
+[TiDB](https://docs.pingcap.com/tidbcloud/tidb-cloud-intro/) is an open-source distributed SQL database. TiDB Cloud provides it as a managed database service that handles infrastructure, scaling and availability while applications use standard SQL.
 
-TiDB is [compatible with the MySQL protocol](https://docs.pingcap.com/tidbcloud/mysql-compatibility/), allowing the application to connect using common MySQL drivers and familiar SQL syntax.
+TiDB is [compatible with the MySQL protocol](https://docs.pingcap.com/tidbcloud/mysql-compatibility/), allowing the application to connect through common MySQL drivers and familiar SQL syntax.
 
-### How D6 Food Bulk Uses TiDB
+### 4.2 D6 Food Bulk Product Data
 
 D6 Food Bulk uses TiDB as the central data source for the Product Catalogue:
 
@@ -101,36 +105,40 @@ D6 Food Bulk uses TiDB as the central data source for the Product Catalogue:
 - Each record contains fields such as `id`, `category`, `contents`, `description`, `food_info` and `image`.
 - The application retrieves these records for the website instead of storing catalogue content directly in the page.
 - Categories and product data support catalogue organisation and filtering.
-- Image paths connect each database record to the correct product image shown by the interface.
+- Image paths connect database records to the corresponding product images shown by the interface.
 
-This approach keeps Product Catalogue information structured in one place and allows catalogue content to be updated without rewriting the interface.
+This structure keeps Product Catalogue information in one place and allows product records to be updated without rewriting the interface.
 
-### TiDB Product Records
+### 4.3 TiDB Product Records
 
-The screenshot shows the SQL query `SELECT * FROM dfb.products LIMIT 100;` and confirms that Product Catalogue records are available from the `dfb.products` table.
+The screenshot shows the query `SELECT * FROM dfb.products LIMIT 100;` and the available Product Catalogue records in the `dfb.products` table.
 
 <p align="left">
-  <a href="../assets/product-backlog/tidb_products.png"><img src="../assets/product-backlog/tidb_products.png" alt="TiDB query results showing D6 Food Bulk product catalogue records" width="720"></a>
+  <a href="../assets/product-backlog/tidb_products.png"><img src="../assets/product-backlog/tidb_products.png" alt="TiDB query results showing D6 Food Bulk Product Catalogue records" width="720"></a>
 </p>
 
-<p align="left"><sub>Product records stored in the <code>dfb.products</code> table</sub></p>
+<p align="left"><sub><strong>Figure 5.</strong> Product records shown in the <code>dfb.products</code> table. Select the image to view it at full size.</sub></p>
 
-### TiDB-Powered Frontend Catalogue
+**Evidence shown:** The query result documents the Product Catalogue table structure and the product records available from TiDB.
 
-The product records retrieved from TiDB are displayed on the D6 Food Bulk catalogue. The price filters allow students to browse products within a selected budget. Select an image to view it at full size.
+### 4.4 TiDB-Powered Frontend Catalogue
 
-#### Products Under R100
+The following interface screenshots show catalogue price filters for students browsing within selected budgets.
+
+#### 4.4.1 Products Under R100
 
 <p align="left">
   <a href="../assets/product-backlog/frontend_under_100.png"><img src="../assets/product-backlog/frontend_under_100.png" alt="D6 Food Bulk catalogue filtered to products under R100" width="320"></a>
 </p>
 
-<p align="left"><sub>Catalogue products priced below R100</sub></p>
+<p align="left"><sub><strong>Figure 6.</strong> Product Catalogue interface displaying products priced below R100. Select the image to view it at full size.</sub></p>
 
-#### Products Under R200
+#### 4.4.2 Products Under R200
 
 <p align="left">
   <a href="../assets/product-backlog/frontend_under_200.png"><img src="../assets/product-backlog/frontend_under_200.png" alt="D6 Food Bulk catalogue filtered to products under R200" width="320"></a>
 </p>
 
-<p align="left"><sub>Catalogue products priced below R200</sub></p>
+<p align="left"><sub><strong>Figure 7.</strong> Product Catalogue interface displaying products priced below R200. Select the image to view it at full size.</sub></p>
+
+**Evidence shown:** The two interfaces document Product Catalogue views using the R100 and R200 price filters.

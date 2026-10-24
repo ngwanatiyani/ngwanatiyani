@@ -2,7 +2,7 @@
 
 ## D6 Food Bulk
 
-A portfolio of project evidence and STAR reflections for **Project Presentation 3 (PRP372S)**.
+A portfolio of project evidence and reflections for **Project Presentation 3 (PRP372S)**.
 
 ## Student Details
 

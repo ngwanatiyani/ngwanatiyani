@@ -203,9 +203,9 @@ By working on this team, we commit to the purpose, values, responsibilities and 
 
 | Name | Signature or agreement | Date |
 |---|---|---|
-| Sinazo Ntsimbi | **SN** | 24 October 2026 |
-| Sibulele Sanda Pama | **SP** | 24 October 2026 |
-| Tiyani Ngwana | **TN** | 24 October 2026 |
+| Sinazo Ntsimbi | **SN** | 17 July 2026 |
+| Sibulele Sanda Pama | **SP** | 17 July 2026 |
+| Tiyani Ngwana | **TN** | 17 July 2026 |
 
 ## Evidence Alignment
 

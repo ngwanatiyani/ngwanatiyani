@@ -207,7 +207,7 @@ By working on this team, we commit to the purpose, values, responsibilities and 
 | Sibulele Sanda Pama | **SP** | 17 July 2026 |
 | Tiyani Ngwana | **TN** | 17 July 2026 |
 
-## Evidence Alignment
+## 12. Evidence Alignment
 
 This charter reflects the project's recorded practices and findings:
 

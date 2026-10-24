@@ -1,4 +1,4 @@
-# Entrepreneurial WIL Digital Portfolio
+# Entrepreneurial WIL GitHub Portfolio
 
 ## D6 Food Bulk
 

@@ -31,8 +31,8 @@ The team works cross-functionally. All members contribute to planning, task deli
 
 | Team member | Role and contribution |
 |---|---|
-| **Sinazo** | Team member. Contributes to planning, research and validation, assigned Trello tasks, team discussions, reviews and presentations. |
-| **Sanda** | Team member. Contributes to planning, process and service development, assigned Trello tasks, team discussions, reviews and presentations. |
+| **Sinazo Ntsimbi** | Team member. Contributes to product-backlog coordination, planning, research and validation, assigned Trello tasks, team discussions, reviews and presentations. |
+| **Sibulele Sanda Pama** | Team member. Contributes to planning, website development, assigned Trello tasks, team discussions, reviews and presentations. |
 | **Tiyani Ngwana** | Developer and portfolio contributor. Contributes to frontend and backend implementation, database integration, testing, bug fixing, technical evidence, Trello updates and sprint reviews. |
 
 Task ownership may change between sprints according to the user story, workload and skills required. Every Trello card must have a clear owner and deadline.
@@ -203,8 +203,8 @@ By working on this team, we commit to the purpose, values, responsibilities and 
 
 | Name | Signature or agreement | Date |
 |---|---|---|
-| Sinazo | **S** | 24 October 2026 |
-| Sanda | **S** | 24 October 2026 |
+| Sinazo Ntsimbi | **SN** | 24 October 2026 |
+| Sibulele Sanda Pama | **SP** | 24 October 2026 |
 | Tiyani Ngwana | **TN** | 24 October 2026 |
 
 ## Evidence Alignment
@@ -215,6 +215,7 @@ This charter reflects the project's recorded practices and findings:
 - Trello task ownership, visible workflow, blocker reporting, team feedback and the student-focused outcome are documented in the [Agile Team Charter reflection](../../01-agile-team-charter/reflection.md).
 - The Product Backlog, In Progress and Completed workflow, daily stand-up questions, taskboard walkthrough, sprint review, risks and improvement actions are documented in the [Agile Logbook for 14–17 July](../logbooks/Agile%20Logbook%20Submission%20%2814%20-%2017%20July%29.md).
 - Tiyani's implementation, testing, bug-fixing and review responsibilities are documented in the [Sprint Backlog reflection](../../04-sprint-backlog/reflection.md).
+- The [Outlook communication screenshots](../../01-agile-team-charter/evidence.md#communication-and-collaboration-evidence) document product-backlog preparation, Trello updates, Figma review, website planning and GitHub collaboration involving all three team members.
 - WhatsApp and Outlook email were confirmed by the team as its primary communication channels.
 
 Supplier pricing, delivery costs and delivery arrangements remain assumptions until validated.
